@@ -18,7 +18,7 @@ object Application {
   }
 
   def scrapeLevels(): Unit = {
-    val levelData = 1 to levels flatMap extractLevel
+    val levelData = (1 to levels) flatMap extractLevel
     val sortedLevelData = levelData sortBy (_.polish)
     sortedLevelData foreach println
   }
