@@ -1,3 +1,3 @@
 # Memrise Scraper in Scala
 
-Work in progress.
+Specify cookie as single argument.
