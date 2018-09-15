@@ -7,7 +7,6 @@ import net.ruippeixotog.scalascraper.dsl.DSL.Extract._
 import net.ruippeixotog.scalascraper.dsl.DSL._
 
 case class Database(polish: String, english: String, other: String, typ: String) {
-
   override def toString: String =
     "%s,%s,%s,%s" format (
       Util quote polish,
@@ -15,11 +14,9 @@ case class Database(polish: String, english: String, other: String, typ: String)
       Util quote other,
       Util quote typ
     )
-
 }
 
 object Database {
-
   private val browser  = new JsoupBrowser()
   private val filename = "memrise_database.csv"
   private val headers  = "polish,english,other,type\r\n"
@@ -65,5 +62,4 @@ object Database {
       case (((w, x), y), z) => Database(w, x, y, z)
     }
   }
-
 }

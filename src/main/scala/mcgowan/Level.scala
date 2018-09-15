@@ -7,17 +7,14 @@ import net.ruippeixotog.scalascraper.dsl.DSL.Extract._
 import net.ruippeixotog.scalascraper.dsl.DSL._
 
 case class Level(polish: String, english: String) {
-
   override def toString: String =
     "%s,%s,," format (
       Util quote polish,
       Util quote english
     )
-
 }
 
 object Level {
-
   private val browser  = JsoupBrowser()
   private val filename = "memrise_levels.csv"
   private val headers  = "polish,english,other,type\r\n"
@@ -52,5 +49,4 @@ object Level {
       case (x, y) => Level(x, y)
     }
   }
-
 }
