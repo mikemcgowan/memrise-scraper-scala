@@ -184,6 +184,7 @@ biorę (brać),I am taking,,conjugation
 biskup,bishop,,m noun
 bitwa,battle,,f noun
 biurowiec,office block,Nie ma biurowca,m noun
+biustonosz,bra,,m noun
 biżuteria,jewellery,,f noun
 blacha,sheet metal,,f noun
 blat,counter-top or work surface,Nie ma blatu,m noun
@@ -562,7 +563,9 @@ drobny,small/frail/fine,,adjective
 drozd,thrush (bird),,m noun
 drożeć,to become more expensive (repeated),,verb
 druciany,wire,,adjective
+druhna,bridesmaid,,f noun
 drukować,to print (repeated),,verb
+drużba,best man,,m noun
 drużyna,team/squad,,f noun
 drwić,to mock/scoff/jeer I (repeated),,verb
 drzazga,splinter,,f noun
@@ -748,6 +751,7 @@ grudzień,December,,m noun
 grunt,ground/soil/base/basis,Nie ma gruntu,m noun
 gruz,rubble/debris,Nie ma gruzu,m noun
 grzbiet,back/spine,Nie ma grzbietu,m noun
+grzebać,to bury II (repeated),,verb
 grzech,sin,Nie ma grzechu,m noun
 grzechotnik,rattle snake,,m noun
 grzecznościowy,polite II,,adjective
@@ -1120,6 +1124,7 @@ lunąć,to pour down,,verb
 luty,February,,m noun
 ląd,land,Nie ma lądu,m noun
 lądować,to land (repeated),,verb
+lęk przed czymś,fear or something,Nie ma lęku,m noun
 lśniący,shiny,,adjective
 lżejszy,lighter,,adjective
 macierzyństwo,motherhood,,n noun
@@ -1308,6 +1313,7 @@ nabyty,acquired,,adjective
 nabywać,to acquire (repeated),,verb
 nabyć,to acquire (once),,perf verb
 nabój,cartridge/round,Nie ma naboju,m noun
+nacechowany czymś,characterized by something,,adjective
 nachylać się,to bend down/lean (repeated),,verb
 nachylić się,to bend down/lean (once),,perf verb
 naciskać,to press (repeated),,verb
@@ -2053,6 +2059,7 @@ parter,ground floor,Nie ma partru,m noun
 parów,ravine/gully,Nie ma parowu,m noun
 pas,belt,Przypiąć się pasami,m noun
 pasażer,passenger,,m noun
+pasiasty,striped,,adjective
 paskudny,horrid/nasty,,adjective
 paskudztwo,eyesore/abomination,,n noun
 pastwisko,pasture,,n noun
@@ -2178,6 +2185,7 @@ podjęcie,undertaking,Przeddzień podjęcia pracy,n noun
 podkowa,horseshoe,,f noun
 podkreślać,to underline (repeated),,verb
 podkreślić,to underline (once),,perf verb
+podniebienie,palate,,n noun
 podniecenie,excitement/arousal,,n noun
 podniesiesz (podnieść),You will pick up,,conjugation
 podnieś (podnieść),Pick up! (once),,imperative
@@ -2242,6 +2250,7 @@ pogromca,conqueror (male),,m noun
 pogromczyni,conqueror (female),,f noun
 pogrzeb,funeral,Nie ma pogrzebu,m noun
 pogrzebacz,poker,,m noun
+pogrzebać,to bury II (once),,perf verb
 pogrążać się w czymś,to be immersed in something (repeated),,verb
 pogrążyć się w czymś,to be immersed in something (once),,perf verb
 pogłaskać,to stroke (once),,perf verb
@@ -2359,6 +2368,7 @@ poranny,morning,,adjective
 porastać,to overgrow (repeated),,verb
 porażka,failure,Ta podróż to porażka! (This journey is a failure!),f noun
 porosnąć,to overgrow (once),,perf verb
+porowaty,porous,,adjective
 porozumienie,agreement/arrangement/understanding,,n noun
 porozumiewawczo,knowingly,,adverb
 porozumiewać się,to communicate (repeated),,verb
@@ -2530,6 +2540,7 @@ połaskotać,to tickle (once),,perf verb
 połknąć,to swallow (once),,perf verb
 połowa,half/middle,,f noun
 położenie,position/situation/location,,n noun
+położna,midwife,,f noun
 położony,situated,,adjective
 położyć,to lay (once),,perf verb
 południe,south,Na południu (Southwards),n noun
@@ -2699,6 +2710,7 @@ przenikliwy,penetrating,,adjective
 przeniknąć,to penetrate (once),,perf verb
 przenocować,to spend/stay the night (once),,perf verb
 przeoczyć,to overlook,,verb
+przepastny,cavernous,,adjective
 przepaść,precipice/chasm/gulf/abyss,,f noun
 przepis,recipe,Nie ma przepisu,m noun
 przeplatać,to intersperse/intermingle (repeated),"Idzie kwiecień i przeplata, trochę zimy, trochę lata",verb
@@ -2724,6 +2736,8 @@ przesadzać,to exaggerate (repeated),,verb
 przesadzić,to exaggerate (once),,perf verb
 przesiadać się,to change seats (repeated),,verb
 przesilenie,solstice/crisis,,n noun
+przesiąkać,to soak through (repeated),,verb
+przesiąknąć,to soak through (once),,perf verb
 przesiąść się,to change seats (once),,perf verb
 przestarzały,outdated/obsolete,,adjective
 przestawać,to stop doing (repeated),Przestań!,verb
@@ -3071,6 +3085,7 @@ rozciągnąć,to spread (once),,perf verb
 rozczarowany,disappointed I,,adjective
 rozczarować się,to be disappointed (once),,perf verb
 rozczarowywać się,to be disappointed (repeated),,verb
+rozczochrany,dishevelled/unkempt,,adjective
 rozdział,chapter,,m noun
 rozebrać,to undress (once),,perf verb
 rozejrzeć się,to look around (once),,perf verb
@@ -4333,6 +4348,7 @@ wsunąć,to slip (e.g. hands) (once),Wsunąć ręce do kieszeni,perf verb
 wsuwać,to slip (e.g. hands) (repeated),,verb
 wszczynać,to instigate (repeated),,verb
 wszcząć,to instigate (once),,perf verb
+wszechstronny,versatile/comprehensive,,adjective
 wszechświat,(the) universe,,m noun
 wszelki,every/all possible,,adjective
 wszerz,across,,adverb
@@ -4642,6 +4658,7 @@ wzejść,to rise (once),,perf verb
 wzgląd,respect/regard,Nie ma względu,m noun
 wzgórze,hill I,,n noun
 wzięty,popular,,adjective
+wzloty i upadki,ups and downs,,phrase
 wzmacniać,to strengthen (repeated),,verb
 wzmianka,reference,,f noun
 wzmocnić,to strengthen (once),,perf verb
@@ -4806,6 +4823,7 @@ zająć,to capture/occupy/seize (once),,perf verb
 zajęcie,occupation/classes,Mam dużo zajęć,n noun
 zajście,incident,,n noun
 zajść,to go behind (once),,perf verb
+zajść w ciążę,to fall pregnant,,verb
 zakaz,ban,Nie ma zakazu,m noun
 zakazany,banned/forbidden or seedy,,adjective
 zakazać,to ban/forbid (once),,perf verb
@@ -4816,8 +4834,8 @@ zaklinać,to charm (repeated),,verb
 zakląć,to charm (once),,perf verb
 zakląć,to swear (once),,perf verb
 zaklęcie,(magic) spell,,n noun
-zakopać,to bury (once),,perf verb
-zakopywać,to bury (repeated),,verb
+zakopać,to bury I (once),,perf verb
+zakopywać,to bury I (repeated),,verb
 zakończenie,ending/conclusion,,n noun
 zakpić,to mock/scoff/jeer II (once),,perf verb
 zakradać się,to sneak in (repeated),,verb
@@ -5123,6 +5141,7 @@ zdrowieję (zdrowieć),I am recuperating,,conjugation
 zdrowieć,to recuperate (repeated),,verb
 zdrowotny,health,,adjective
 zdrożeć,to become more expensive (once),,perf verb
+zdruzgotany,devastated,,adjective
 zdrętwieć,to go numb (once),,perf verb
 zdumiejesz (zdumieć),You will amaze/astound,,conjugation
 zdumieję (zdumieć),I will amaze/astound,,conjugation
@@ -5431,6 +5450,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 świąteczny,festive,,adjective
 świątynia,temple,,f noun
 święto,holiday,Wesołych świąt!,n noun
+świństwo,dirty/mean trick,,n noun
 źle widziany,unwelcome,,adjective
 źrebak,colt/foal,,m noun
 źródło,spring (of water),,n noun
