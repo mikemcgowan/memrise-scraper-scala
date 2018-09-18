@@ -1,4 +1,4 @@
-package mcgowan
+package mikemcgowan
 
 object Config {
   val memriseUrl = "https://www.memrise.com/course"

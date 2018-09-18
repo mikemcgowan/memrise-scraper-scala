@@ -1,4 +1,4 @@
-package mcgowan
+package mikemcgowan
 
 object Application {
   def main(args: Array[String]): Unit = {

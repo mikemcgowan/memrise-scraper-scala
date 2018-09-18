@@ -1,4 +1,4 @@
-package mcgowan
+package mikemcgowan
 
 object Util {
   def quote(s: String): String =

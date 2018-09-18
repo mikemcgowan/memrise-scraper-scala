@@ -1,4 +1,4 @@
-package mcgowan
+package mikemcgowan
 
 import Config._
 
