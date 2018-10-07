@@ -827,6 +827,7 @@ jakby,as if/though,"Dlaczego zawsze mówisz o naszej mamie, jakby nić mogło ci
 jama,pit/cave/hole/cavity,,f noun
 jar,canyon/ravine,Nie ma jaru,m noun
 jaskinia,cave,,f noun
+jaskrawy,bright/gaudy/garish,,adjective
 jatka,massacre,,f noun
 jawa,reality II,,f noun
 jazda,a drive/ride I (e.g. car/bike),Po jeździe,f noun
@@ -904,6 +905,7 @@ klasnąć,to clap hands (once),,perf verb
 klatka,cage,,f noun
 klawisz,piano key,,m noun
 klejnot,jewel,Nie ma klejnotu,m noun
+klomb,flower-bed,Nie ma klombu,m noun
 klon,maple (tree) or clone,Nie ma klonu,m noun
 kloszard,tramp,,m noun
 kląć,to swear (repeated),,verb
@@ -1116,6 +1118,7 @@ loch,dungeon,Nie ma lochu,m noun
 lokować,to place (repeated),,verb
 los,fortune/fate,Nie ma losu,m noun
 losować,to draw (e.g. a card) (repeated),,verb
+lubieżny,lecherous/lascivious,,adjective
 lud,folk/people,Nie ma ludu,m noun
 ludność,population,,f noun
 ludzki,human,,adjective
@@ -1124,7 +1127,7 @@ lunąć,to pour down,,verb
 luty,February,,m noun
 ląd,land,Nie ma lądu,m noun
 lądować,to land (repeated),,verb
-lęk przed czymś,fear or something,Nie ma lęku,m noun
+lęk przed czymś,fear of something,Nie ma lęku,m noun
 lśniący,shiny,,adjective
 lżejszy,lighter,,adjective
 macierzyństwo,motherhood,,n noun
@@ -1784,6 +1787,8 @@ odmawiać,to refuse/deny (repeated),,verb
 odmieniać,to conjugate/decline (repeated),,verb
 odmienić,to conjugate/decline (once),,perf verb
 odmówić,to refuse/deny (once),,perf verb
+odmładzać,to rejuvenate (repeated),,verb
+odmłodzić,to rejuvenate (once),,perf verb
 odnajdować,to find again (repeated),,verb
 odnaleźć,to find again (once),,perf verb
 odnawiać,to renew/restore (repeated),,verb
@@ -2003,6 +2008,7 @@ otucha,comfort/encouragement/uplift,,f noun
 otulać,to wrap (repeated),,verb
 otulić,to wrap (once),,perf verb
 otwór,hole,Nie ma otworu,m noun
+otynkować,to plaster (once),,perf verb
 otyły,obese,,adjective
 otępiały,spaced-out,,adjective
 owad,insect,Nie ma owada,m noun
@@ -2393,6 +2399,7 @@ porównywać,to compare/equate (repeated),,verb
 poręcz,handrail/railing/banister,,f noun
 posada,job/position,,f noun
 posag,dowry,Nie ma posagu,m noun
+posesja,(real) estate,,f noun
 posiadać,to own/possess,,verb
 posiadłość,estate/property,,f noun
 posiedzenie,session/sitting,,n noun
@@ -3114,6 +3121,8 @@ rozlegać się,to ring out (repeated),,verb
 rozlegniesz się (rozlec się),You will ring out,,conjugation
 rozlegnę się (rozlec się),I will ring out,,conjugation
 rozległy,extensive/vast,,adjective
+rozluźniać,to loosen/relax (repeated),,verb
+rozluźnić,to loosen/relax (once),,perf verb
 rozmach,momentum,Nie ma rozmachu,m noun
 rozmaity,various,,adjective
 rozmazać,to smear/smudge (once),,perf verb
@@ -3457,6 +3466,7 @@ sprzątacz,cleaner,,m noun
 sprzątać,to clean (repeated),,verb
 sprzątnąć,to clean (once),,perf verb
 sprzęt,equipment,Sprzętu sportowego,m noun
+spust broni,trigger of a weapon,Nie ma spustu,m noun
 spustoszyć,to ravage/desolate (once),,perf verb
 spychać,to drive back (repeated),,verb
 spód,underside,Nie ma spodu,m noun
@@ -3610,6 +3620,7 @@ szczęka,jaw,,f noun
 szczęściara,lucky woman,,f noun
 szczęściarz,lucky man,,m noun
 szelest,rustle,Nie ma szelestu,m noun
+szemrać,to murmur/mumble/babble,,verb
 szepczesz (szeptać),You are whispering,,conjugation
 szepczę (szeptać),I am whispering,,conjugation
 szepnąć,to whipser (once),,perf verb
@@ -3786,6 +3797,7 @@ tyle,so many/much,Nawet nie tyle (Not even that much),adverb
 tylny,rear,,adjective
 tymczasem,meanwhile,,adverb
 tymczasowo,temporarily,,adverb
+tynkować,to plaster (repeated),,verb
 typowy,typical,,adjective
 tyrać,to slave,,verb
 tysiąc,one thousand,,numeral
@@ -3880,6 +3892,8 @@ ukryć,to hide/conceal (once),,perf verb
 ukształtować,to shape (once),,perf verb
 układ,arrangement/layout,Nie ma układu,m noun
 układać,to arrange/align (repeated),,verb
+ukłucie,prick/sting,,n noun
+ulatniać się,to escape/vanish/evaporate (repeated),,verb
 ulec komuś/czemuś,to give into somebody or something (once),,perf verb
 ulegać komuś/czemuś,to give into somebody or something (repeated),,verb
 ulegniesz komuś/czemuś (ulec),You will give into somebody or something,,conjugation
@@ -3890,6 +3904,7 @@ ulga,relief,,f noun
 ulgowy,reduced,,adjective
 uliczny,street,,adjective
 ulokować,to place (once),,perf verb
+ulotnić się,to escape/vanish/evaporate (once),,perf verb
 ulubieniec,favourite,,m noun
 ulżysz (ulżyć),You are lightening/easing,,verb
 ulżyć,to lighten/ease,,verb
@@ -4037,6 +4052,7 @@ ustawa,law or bill,,f noun
 ustawodawczy,legislative,,adjective
 usterka,fault/flaw,,f noun
 ustny,oral/verbal/spoken,,adjective
+ustrój,system/regime,Nie ma ustroju,m noun
 ustąpić,to give way (once),,perf verb
 ustępować,to give way (repeated),,verb
 usunięty,ousted/expelled,,adjective
@@ -4044,6 +4060,8 @@ usunąć,to remove (once),,perf verb
 usuwać,to remove (repeated),,verb
 usychać,to wither (repeated),,verb
 usypiać,to put to sleep (repeated),,verb
+uszczelniać coś czymś,to seal something with something (repeated),,verb
+uszczelnić coś czymś,to seal something with something (once),,perf verb
 uszczęśliwiać kogoś,to make somebody happy (repeated),,verb
 uszczęśliwić kogoś,to make somebody happy (once),,perf verb
 uszkodzenie,damage/injury,,n noun
@@ -4066,6 +4084,7 @@ uwalniać,to rid/free/liberate (repeated),,verb
 uwieczniać,to immortalize (repeated),,verb
 uwiecznić,to immortalize (once),,perf verb
 uwierać,"to dig into, to pinch",,verb
+uwikłać w coś,to get involved/entangled in something (once),,perf verb
 uwięzić,to imprison/trap (once),,perf verb
 uwolnić,to rid/free/liberate (once),,perf verb
 uwzględniać,to take into consideration (repeated),,verb
@@ -4213,6 +4232,7 @@ wieśniak,villager,,m noun
 wieść,to lead,,verb
 wieża,tower,,f noun
 wieżowiec,high rise block,Nie ma wieżowca,m noun
+wikłać w coś,to get involved/entangled in something (repeated),,verb
 wilgotny,damp/humid/moist,,adjective
 winny,guilty,,adjective
 winorośl,grapevine,,f noun
