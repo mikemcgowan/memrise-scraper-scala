@@ -54,11 +54,9 @@ object Database {
     val doc = browser get url
     val things = doc >> elementList("tr.thing")
     val selector = (m: Int) => "td:nth-child(%d) div.text" format m
-    val as = things map (_ >> allText(selector(2)))
-    val bs = things map (_ >> allText(selector(3)))
-    val cs = things map (_ >> allText(selector(4)))
-    val ds = things map (_ >> allText(selector(5)))
-    (as zip bs zip cs zip ds) map {
+    val f = (n: Int) => things map (_ >> allText(selector(n)))
+    val as = (2 to 5) map f
+    (as(0) zip as(1) zip as(2) zip as(3)) map {
       case (((w, x), y), z) => Database(w, x, y, z)
     }
   }
