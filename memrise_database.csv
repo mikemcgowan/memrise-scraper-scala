@@ -287,6 +287,7 @@ cham,lout,,m noun
 charytatywny,charitable,,adjective
 chata,hut/cabin/cottage,,f noun
 chciwy,greedy II,,adjective
+chichot,giggle/chuckle,Nie ma chichotu,m noun
 chirurg,surgeon,,m noun
 chmiel,hop,Nie me chmielu,m noun
 chmurny,overcast/cloudy,,adjective
@@ -296,6 +297,9 @@ chodzenie,walking,,n noun
 choroba,disease,,f noun
 choć,(even) though,"Jestem smutny, choć mam wino",conjunction
 chropowaty,rough/harsh,,adjective
+chrzest,baptism/christening,Nie ma chrzestu,m noun
+chrząkać,to clear one's throat (repeated),,verb
+chrząknąć,to clear one's throat (once),,perf verb
 chuderlawy,scraggy,,adjective
 chudnąć,to loose weight (repeated),,verb
 chusta,headscarf or shawl,,f noun
@@ -890,6 +894,7 @@ kibic,supporter/fan,,m noun
 kibicować komuś,to cheer somebody,,verb
 kieliszek,(a) glass,Nie ma kielszka,m noun
 kiepski,poor/bad/rotten,,adjective
+kierat,treadmill/grind,Nie ma kieratu,m noun
 kierownica,steering wheel or handle bars,,f noun
 kierunek,direction,Czy to dobry kierunek?,m noun
 kieszeń,pocket,,f noun
@@ -1412,6 +1417,7 @@ narażać,to endanger/jeopardize (repeated),,verb
 narażony,vulnerable/exposed/endangered,,adjective
 narkoza,anaesthesia,,f noun
 narodowy,national,,adjective
+narożny,angular/corner,,adjective
 naruszenie,infringement/violation,,n noun
 narzeczona,fiancée (female),,f noun
 narzeczony,fiancé (male),,m noun
@@ -1452,6 +1458,7 @@ nawiedzić,to haunt (once),,perf verb
 nawyk,habit/practice/custom,Nie ma nawyku,m noun
 nawóz,fertilizer/manure,Nie ma nawozu,m noun
 nazbierać,to pick/collect/gather,,verb
+nazbyt,too/excessive,On nie jest nazbyt bystry,adverb
 nazista,nazi,,m noun
 nazistowski,nazi,,adjective
 naziści,nazis,,m plural noun
@@ -1487,6 +1494,7 @@ niegdyś,formerly,,adverb
 niekończący się,never-ending,,adjective
 nieletni,juvenille,,m noun
 niemal,almost/nearly,Jestem niemal pewny,adverb
+niemy,mute/dumb/speechless,Niemy z rozpaczy,adjective
 nienaganny,impeccable/irreproachable,,adjective
 nienaruszony,intact,,adjective
 nienawiść,hatred,,f noun
@@ -2057,6 +2065,7 @@ pamięć,memory,,f noun
 pancerz,armour/carapace,,m noun
 panować,to reign/control (repeated),Panować nad sobą (To control oneself),verb
 pantofel,slipper,Nie ma pantofla,m noun
+paplać,to babble/chatter,,verb
 parkiet,parquet or dance floor,Nie ma parkietu,m noun
 parowiec,steamer,Nie ma parowca,m noun
 parowóz,steam engine,Nie ma parowozu,m noun
@@ -2110,6 +2119,7 @@ pierś,chest/breast,,f noun
 pierścionek,ring,Nie ma pierścionka,m noun
 pieszo,on foot,,adverb
 pień,tree trunk or stump,Nie ma pnia,m noun
+pigułka,pill,,f noun
 pilnować,"to mind, to tend to, to watch over, to look after",Policjant pilnuje porządku,verb
 pilny,diligent/conscientious,,adjective
 piorę (prać),I am laundering,,conjugation
@@ -3236,6 +3246,8 @@ rzęsa,eyelash,,f noun
 rzęsisty,torrential,,adjective
 ród,family/kin/tribe,Nie ma rodu,m noun
 rów,ditch/trench,Nie ma rowu,m noun
+rówieśniczka,peer (female),,f noun
+rówieśnik,peer (male),,m noun
 również,also,Rząd obiecuje również niższy podatek,adverb
 równik,equator,,m noun
 równina,plain,,f noun
@@ -4144,7 +4156,9 @@ walka,fight/battle/struggle,,f noun
 walor,virtue II,Nie ma waloru,m noun
 waluta,currency,W jakiej walucie (loc.) płacisz? (In which currency are you paying?),f noun
 wapień,limestone,Nie ma wapnia,m noun
+warczeć,to growl/snarl (repeated),,verb
 wariacki,crazy,,adjective
+warknąć,to growl/snarl (once),,perf verb
 warkocz,braid/plait,,m noun
 warownia,stronghold,,f noun
 warstwa,layer/coat,,f noun
@@ -4377,6 +4391,7 @@ wsławić się,to get famous (once),,perf verb
 wtaczać,to roll (repeated),,verb
 wtajemniczony,in-the-know,,adjective
 wtoczyć,to roll (once),,perf verb
+wtór,accompaniment,Do wtóru czegós,m noun
 wybaczać,to forgive (repeated),,verb
 wybaczyć,to forgive (once),,perf verb
 wybierać,to choose/select/pick (repeated),,verb
@@ -4618,6 +4633,8 @@ wytrych,skeleton key,Nie ma wytrychu,m noun
 wytryskiwać,to spurt (repeated),,verb
 wytrysnąć,to spurt (once),,perf verb
 wytrzesz (wytrzeć),You will wipe,,conjugation
+wytrzeszczać oczy,to goggle (repeated),,verb
+wytrzeszczyć oczy,to goggle (once),,perf verb
 wytrzeć,to wipe (once),,perf verb
 wytrzyj (wytrzeć),Wipe! (once),,conjugation
 wytrzymać,to endure/withstand (once),,verb
@@ -5185,6 +5202,8 @@ zemsta,revenge/vengeance,,f noun
 zemścić się,to avenge oneself on somebody (once),,perf verb
 zepchnąć,to drive back (once),,perf verb
 zepsuć,to break/spoil/ruin (once),,perf verb
+zerkać,to peek (repeated),,verb
+zerknąć,to peek (once),,perf verb
 zerwanie,severance,,n noun
 zerwać,to sever/strip (once),,perf verb
 zerwiesz (zerwać),You will sever/strip,,conjugation
@@ -5399,6 +5418,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 łokieć,elbow,Nie ma łokcia,m noun
 łono,lap/bosom,Na łono przyrody,n noun
 łopata,shovel/spade,,f noun
+łopot,flapping/flutter,Nie ma łopotu,m noun
 łoskot,clatter,Nie ma łoskotu,m noun
 łowić,to catch/hunt (repeated),,verb
 łuk,bow,Nie ma łuku,m noun
