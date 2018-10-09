@@ -3,27 +3,25 @@
 
 {-# LANGUAGE OverloadedStrings #-}
 
-import Prelude hiding (FilePath)
-import Turtle hiding (sortBy)
+import Prelude hiding (lines, FilePath)
+import Turtle hiding (sort)
 
-import Data.Function (on)
-import Data.List (sortBy, groupBy)
-import Data.Ord (comparing)
-import qualified Data.Text as T
+import Data.List (sort, group)
+import Data.Text (breakOn, lines)
 
 main :: IO ()
 main = do
-  databaseFile <- readTextFile "memrise_database.csv"
-  levelsFile   <- readTextFile "memrise_levels.csv"
-  showDups $ detectDups databaseFile
-  showDups $ detectDups levelsFile
-  return ()
-  where
-  showDups = mapM_ (\file -> echo $ fst $ head file)
+  inFile "database" "memrise_database.csv"
+  inFile "levels"   "memrise_levels.csv"
 
-detectDups :: Text -> [[(Line, Line)]]
-detectDups file = filter (\xs -> length xs > 1) grouped
+inFile :: String -> FilePath -> IO ()
+inFile shortName fileName = do
+  file <- readTextFile fileName
+  putStrLn $ "Duplicates in " ++ shortName ++ " file …"
+  mapM_ (echo . head) $ detectDups file
+
+detectDups :: Text -> [[Line]]
+detectDups = notUnique . group . sort . polish . lines
   where
-  toPairs = map (\(a, b) -> (unsafeTextToLine a, unsafeTextToLine $ T.drop 1 b)) . map (T.breakOn ",")
-  lines'  = toPairs $ T.lines file
-  grouped = groupBy ((==) `on` fst) $ sortBy (comparing fst) lines'
+  notUnique = filter ((>1) . length)
+  polish    = map (unsafeTextToLine . fst . breakOn ",")
