@@ -149,10 +149,11 @@ bezczelność,insolence,,f noun
 bezczynny,idle,,adjective
 bezdomny,homeless,,adjective
 bezdzietny,childless,,adjective
+bezgraniczny,endless/boundless II,,adjective
 bezinteresowny,selfless/unselfish,,adjective
 bezkarny,unpunished,,adjective
 bezkofeinowy,decaffeinated,,adjective
-bezkresny,endless/boundless,,adjective
+bezkresny,endless/boundless I,,adjective
 beznadziejny,hopeless,,adjective
 bezokolicznik,infinitive,,linguistic
 bezowocny,fruitless,,adjective
@@ -300,6 +301,7 @@ chropowaty,rough/harsh,,adjective
 chrzest,baptism/christening,Nie ma chrzestu,m noun
 chrząkać,to clear one's throat (repeated),,verb
 chrząknąć,to clear one's throat (once),,perf verb
+chrzęścić,to crunch (repeated),,verb
 chuderlawy,scraggy,,adjective
 chudnąć,to loose weight (repeated),,verb
 chusta,headscarf or shawl,,f noun
@@ -474,6 +476,7 @@ dolegać,to trouble/bother,Co panu/pani dolega?,verb
 dolegliwość,ailment,,f noun
 dolny,lower,,adjective
 domagać się czegoś,to demand something,,verb
+domiar,surtax,Nie ma domiaru,m noun
 domniemany,alleged/supposed,,adjective
 domyślać się,to guess/suspect (repeated),,verb
 domyślić się,to guess/suspect (once),,perf verb
@@ -1312,6 +1315,7 @@ młotek,hammer,Nie ma młotka,m noun
 mścić się,to avenge oneself on somebody (repeated),,verb
 mżawka,drizzle,,
 na dodatek,in addition,W dodatku,phrase
+na domiar złego,to make matters worse,,phrase
 na stałe,permanently,,adverb
 nabijać,to load/charge/fill (repeated),,verb
 nabić,to load/charge/fill (once),,perf verb
@@ -2065,7 +2069,7 @@ pamięć,memory,,f noun
 pancerz,armour/carapace,,m noun
 panować,to reign/control (repeated),Panować nad sobą (To control oneself),verb
 pantofel,slipper,Nie ma pantofla,m noun
-paplać,to babble/chatter,,verb
+paplać,to babble/chatter I,,verb
 parkiet,parquet or dance floor,Nie ma parkietu,m noun
 parowiec,steamer,Nie ma parowca,m noun
 parowóz,steam engine,Nie ma parowozu,m noun
@@ -3319,6 +3323,8 @@ silnik,motor/engine,,m noun
 siniaczyć,to bruise (repeated),,verb
 siny,bluish,,adjective
 siodło,saddle,,n noun
+siorbać,to slurp (repeated),,verb
+siorbnąć,to slurp (once),,perf verb
 siądziesz (siąść),You will sit,,conjugation
 siądę (siąść),I will sit,,conjugation
 siądź (siąść),Sit down! (once),,imperative
@@ -3632,6 +3638,7 @@ szczęka,jaw,,f noun
 szczęściara,lucky woman,,f noun
 szczęściarz,lucky man,,m noun
 szelest,rustle,Nie ma szelestu,m noun
+szeleścić,to rustle (repeated),,verb
 szemrać,to murmur/mumble/babble,,verb
 szepczesz (szeptać),You are whispering,,conjugation
 szepczę (szeptać),I am whispering,,conjugation
@@ -3761,6 +3768,7 @@ traf,chance,Nie ma trafu,m noun
 trafiać,to hit (repeated),,verb
 trafić,to hit (once),,perf verb
 trafny,accurate/apt,,adjective
+trajkotać,to babble/chatter II,,verb
 traktować,to treat/handle (repeated),,verb
 trapić się o coś,to worry about something,,verb
 traszka,newt,,f noun
@@ -4784,6 +4792,7 @@ zachowanie,behaviour,,n noun
 zachować,to preserve/retain/keep (once),,perf verb
 zachowywać,to preserve/retain/keep (repeated),,verb
 zachrypnięty,hoarse I,,adjective
+zachrzęścić,to crunch (once),,perf verb
 zachwycać się,to enthuse/marvel (repeated),,verb
 zachwycić się,to enthuse/marvel (once),,perf verb
 zachwycony,enraptured/delighted,,adjective
@@ -5032,6 +5041,7 @@ zasypujesz (zasypywać),You are covering up,,conjugation
 zasypuję (zasypywać),I am covering up,,conjugation
 zasypywać,to cover up (repeated),,verb
 zaszczyt,honour,Nie ma zaszczytu,m noun
+zaszeleścić,to rustle (once),,perf verb
 zaszkodzić komuś/czemuś,to harm somebody/something (once),,perf verb
 zasób,stock/store,Nie ma zasobu,m noun
 zasłaniać,to cover/screen/shield (repeated),,verb
