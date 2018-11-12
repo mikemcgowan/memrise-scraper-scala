@@ -124,6 +124,7 @@ aspekt niedokonany,imperfective aspect,,linguistic
 atelier,studio,,n noun
 atrament,ink,Nie ma atramentu,m noun
 atut,trump/asset/ace,Nie ma atutu,m noun
+aula,lecture/assembly hall,,f noun
 autorytet,authority,,m noun
 awans,promotion,Nie ma awansu,m noun
 awantura,argument/row,,f noun
@@ -565,6 +566,8 @@ dreptać,to toddle (repeated),,verb
 dreszcze,shivers,,m plural noun
 drewniany,wooden,,adjective
 drgawki,convulsions,,f plural noun
+drgać,to twitch/vibrate (repeated),,verb
+drgnąć,to twitch/vibrate (once),,perf verb
 drobiazg,trifle I,Nie ma drobiazgu,m noun
 drobnostka,trifle II,,f noun
 drobny,small/frail/fine,,adjective
@@ -574,6 +577,7 @@ drożeć,to become more expensive (repeated),,verb
 druciany,wire,,adjective
 druhna,bridesmaid,,f noun
 drukować,to print (repeated),,verb
+druzgotać,to crush/smash/shatter (repeated),,verb
 drużba,best man,,m noun
 drużyna,team/squad,,f noun
 drwić,to mock/scoff/jeer I (repeated),,verb
@@ -584,6 +588,7 @@ drętwieć,to go numb (repeated),,verb
 drżeć,to shiver (repeated),,verb
 drżysz (drżeć),You are shivering,,conjugation
 drżę (drżeć),I am shivering,,conjugation
+dudnić,to rumble (repeated),,verb
 dumać,to ponder/muse,,verb
 dumny,proud,,adjective
 dureń,moron/idiot/fool,Nie ma durnia,m noun
@@ -782,6 +787,7 @@ gwiaździsty,starry,,adjective
 gwóźdź,nail,,m noun
 góra,top/mountain,,f noun
 górnik,miner,Dwaj górnicy,m noun
+górnolotny,grandiloquent,,adjective
 górny,upper,,adjective
 gąbka,sponge,,f noun
 gęba,unpleasant face/mouth,,f noun
@@ -871,6 +877,7 @@ jąkać się,to stutter,,verb
 jęczeć,to moan/groan I (repeated),,verb
 jęczmień,barley,,m noun
 jęknąć,to moan/groan I (once),,perf verb
+kadzidełko,incense stick,,n noun
 kafel,tile,,m noun
 kajdanki,handcuffs,,f plural noun
 kalectwo,disability,,n noun
@@ -1523,6 +1530,7 @@ niepamięć,oblivion,,f noun
 niepełnosprawny,disabled,,adjective
 niepodatny,impervious/insusceptible,,adjective
 niepodległość,political/national independence,,f noun
+niepojęty,inconceivable,,adjective
 niepokoić,to worry (repeated),,verb
 niepokojący,worrying/disturbing,,adjective
 niepokój,anxiety/concern,Nie ma pokoju,m noun
@@ -1535,6 +1543,7 @@ niepowtarzalność,uniqueness,,f noun
 niepozorny,inconspicuous,,adjective
 nieproszony,uninvited,,adjective
 nieprzebyty,impassable,,adjective
+nieprzejednany,implacable,,adjective
 nieprzerwany,uninterrupted,,adjective
 nieprzypadkowo,"intentionally, not accidentally",,adverb
 nieprzystosowany,ill-suited/ill-fitted,,adjective
@@ -1761,6 +1770,7 @@ oddalać,to move away (repeated),,verb
 oddalenie,remoteness,,n noun
 oddalić,to move away (once),,perf verb
 oddam (oddać),I will give back,,conjugation
+oddanie,devotion,,n noun
 oddany,devoted,,adjective
 oddawaj (oddawać),Give back! (repeated),,imperative
 oddawać,"to give back, to return (repeated)",,verb
@@ -1810,6 +1820,7 @@ odkładać,to put back (repeated),,verb
 odległość,distance I,,f noun
 odległy,distant/remote,,adjective
 odludek,recluse/hermit,Nie odludka,m noun
+odludzie,the backwoods,Na odludziu,n noun
 odmawiać,to refuse/deny (repeated),,verb
 odmieniać,to conjugate/decline (repeated),,verb
 odmienić,to conjugate/decline (once),,perf verb
@@ -2015,9 +2026,11 @@ ostygnąć,to cool down (once),,perf verb
 osunąć się,to subside/slip/sink (once),,perf verb
 osuwać się,to subside/slip/sink (repeated),,verb
 oszacować,to estimate/assess (once),,perf verb
+oszałamiać,to stun/bewilder (repeated),,verb
 oszczędność,thriftiness,,f noun
 oszczędzać,to save/economize (repeated),,verb
 oszczędzić,to save/economize (once),,perf verb
+oszołomić,to stun/bewilder (once),,perf verb
 oszust,swindler/conman,,m noun
 oszustwo,fraud/deception,,n noun
 osądzić,to think/suppose (once),,perf verb
@@ -2155,6 +2168,7 @@ pięć tysięcy,five thousand,,numeral
 pięść,fist,,f noun
 piła,saw,,f noun
 piłkarz,football player,,m noun
+piżmo,musk,,n noun
 placówka,(out)post or institution,,f noun
 plajtować,to go bust (repeated),,verb
 plakat,poster,Nie ma plakatu,m noun
@@ -2582,6 +2596,7 @@ położenie,position/situation/location,,n noun
 położna,midwife,,f noun
 położony,situated,,adjective
 położyć,to lay (once),,perf verb
+położyć czemuś kres,to put an end to something,,phrase
 południe,south,Na południu (Southwards),n noun
 połykać,to swallow (repeated),,verb
 połyskiwać,to glisten/shimmer,,verb
@@ -2749,6 +2764,8 @@ przenikać,to penetrate (repeated),,verb
 przenikliwy,penetrating,,adjective
 przeniknąć,to penetrate (once),,perf verb
 przenocować,to spend/stay the night (once),,perf verb
+przeobrazić się w kogoś/coś,to be transformed into somebody/something (once),,perf verb
+przeobrażać się w kogoś/coś,to be transformed into somebody/something (repeated),,verb
 przeoczyć,to overlook,,verb
 przepastny,cavernous,,adjective
 przepaść,precipice/chasm/gulf/abyss,,f noun
@@ -2863,7 +2880,9 @@ przygniatać,to overwhelm (repeated),,verb
 przygnieciesz (przygnieść),You will overwhelm,,conjugation
 przygnieść,to overwhelm (once),,perf verb
 przygniotę (przygnieść),I will overwhelm,,conjugation
+przygnębiać,to depress (repeated),,verb
 przygnębiony,depressed/down,,adjective
+przygnębić,to depress (once),,perf verb
 przygotowanie,preparation,,n noun
 przygotowany,prepared,,adjective
 przygotować,to prepare I (once),,perf verb
@@ -3064,6 +3083,7 @@ płyta,plate/tile/flagstone/slab,,f noun
 rabat,discount/rebate,Nie ma rabatu,m noun
 rabować,to rob/steal (repeated),,verb
 rabuś,robber,,m noun
+rachuba,count/calculation,,f noun
 raczkować,to crawl (as a baby),,verb
 rada,advice,,f noun
 radosny,joyful,,adjective
@@ -3380,6 +3400,7 @@ skonstatować,to ascertain (once),,perf verb
 skoro,since/as,Skoro uczysz się języka polskiego ...,conjunction
 skorumpować,to corrupt (once),,perf verb
 skorupa,crust/shell,,f noun
+skory,eager/willing/prone,,adjective
 skorygować,to correct/rectify/revise (once),,perf verb
 skorzystać,to benefit from (once),,perf verb
 skracać,to shorten (repeated),,verb
@@ -3437,6 +3458,7 @@ smucę się (smucić się),I am saddened,,conjugation
 smukły,slim/slender/willowy,,adjective
 smutek,sorrow,,m noun
 smycz,lead/leash,,f noun
+smętny,melancholy,,adjective
 soczewica,lentil,,f noun
 soczewka,lens II,,f noun
 soczysty,juicy,,adjective
@@ -3573,6 +3595,7 @@ stosunek,relation/attitude,W stosunku do czegoś,m noun
 stosunkowy,relative/comparative,,adjective
 stowarzyszenie,association/society,,n noun
 stołówka,canteen,,f noun
+strapiony,worried,,adjective
 strata,"loss I (e.g. of life, time or money)",,f noun
 strawny,digestible,,adjective
 strażnica,watchtower,,f noun
@@ -3783,6 +3806,7 @@ tkwisz (tkwić),You are getting stuck,,conjugation
 tkwić,to get stuck (repeated),,verb
 tkwię (tkwić),I am getting stuck,,conjugation
 tlen,oxygen,Nie ma tlenu,m noun
+tlić się,to smoulder,,verb
 tobołek,bundle II,Nie ma tobołka,m noun
 toczyć się,to roll/trundle/wheel (repeated),,verb
 tom,volume (of a book),Nie ma tomu,m noun
@@ -3834,6 +3858,7 @@ tryskać,to squirt/gush (repeated),,verb
 trysnąć,to squirt/gush (once),,perf verb
 trzaskać,to slam (repeated),,verb
 trzasnąć,to slam (once),,perf verb
+trzeszczeć,to crackle (repeated),,verb
 trzeźwy,sober,,adjective
 trzysta,three hundred,,numeral
 trząść się,to shake (repeated),,verb
@@ -4067,6 +4092,7 @@ upłynąć,to go by (once),,perf verb
 upływ,passage,Nie ma upływu,m noun
 upływać,to go by (repeated),,verb
 uratować,to rescue/save I (once),,perf verb
+urażony,hurt/offended,,adjective
 urlop,leave/holiday,,m noun
 uroczy,charming,,adjective
 uroczystość,ceremony (e.g. wedding/funeral),,f noun
@@ -4304,6 +4330,7 @@ wiodę (wieść),I am leading,,conjugation
 wiosenny,spring-like,,adjective
 wioska,hamlet/village,,f noun
 wiosłować,to row/paddle,,verb
+wirówka,spin-dryer,,f noun
 wisieć,to hang,,verb
 wisisz (wisieć),You are hanging,,conjugation
 wiszę (wisieć),I am hanging,,conjugation
@@ -4881,6 +4908,7 @@ zadrapanie,scratch,,n noun
 zadrwić,to mock/scoff/jeer I (once),,perf verb
 zadrżeć,to shiver (once),,verb
 zaduch,stuffy air,Nie ma zaduchu,m noun
+zadudnić,to rumble (once),,perf verb
 zadumać się nad czymś,to be engrossed in thought over something,,verb
 zadymiony,smoky,,adjective
 zadziwiający,astonishing,,adjective
@@ -5120,6 +5148,7 @@ zatonąć,to sink (once),,perf verb
 zatroszczyć się,to take care of (once),,perf verb
 zatrudniać,to employ (repeated),,verb
 zatrudnić,to employ (once),,perf verb
+zatrzeszczeć,to crackle (once),,perf verb
 zatrzymać,to stop (motion) (once),Kierowca zatrzymał autobus (The driver stopped the bus),perf verb
 zatrzymywać,to stop (motion) (repeated),,verb
 zatrząść się,to shake (once),,perf verb
@@ -5247,6 +5276,7 @@ zdrowieć,to recuperate (repeated),,verb
 zdrowotny,health,,adjective
 zdrożeć,to become more expensive (once),,perf verb
 zdruzgotany,devastated,,adjective
+zdruzgotać,to crush/smash/shatter (once),,perf verb
 zdrętwieć,to go numb (once),,perf verb
 zdumiejesz (zdumieć),You will amaze/astound,,conjugation
 zdumieję (zdumieć),I will amaze/astound,,conjugation
