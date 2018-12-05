@@ -243,6 +243,7 @@ bujny,luxuriant,,adjective
 bunt,rebellion/mutiny,Nie ma buntu,m noun
 buntownik,rebel/mutineer,,m noun
 burda,brawl,,f noun
+burdel,brothel,,m noun
 burknąć,to growl,,verb
 burmistrz,mayor,,m noun
 burz (burzyć),Demolish/destroy! (repeated),,imperative
@@ -633,6 +634,7 @@ dzielnica,district,,f noun
 dzielę się (dzielić się),I am sharing/dividing,,conjugation
 dziewczęcy,girlish,,adjective
 dziewica,virgin,,f noun
+dziewucha,wench/girl,,f noun
 dzieło,work/composition,,n noun
 dzisiejszy,today's,,adjective
 dziurawy,holey/leaky,,adjective
@@ -954,6 +956,7 @@ kolej,railway/railroad,Nie ma kolei,f noun
 kolejność,sequence/order,,f noun
 kolejny,consecutive/subsequent,,adjective
 kolekcja,collection I,,f noun
+koleś,buddy/dude,,m noun
 kolisty,circular,,adjective
 kombinezon,overalls,Nie ma kombinezonu,m noun
 komin,chimney,Nie ma komina,m noun
@@ -1513,6 +1516,7 @@ nie kłóć się (kłócić się),Don't argue! (repeated),,imperative
 nie smuć się (smucić się),Don't be saddened! (repeated),,imperative
 niebawem,presently/soon,,adverb
 niebezpieczny,dangerous,,adjective
+niebieskawy,bluish II,,adjective
 niebiosa,heaven,,f plural noun
 nieborak,poor thing,,m noun
 nieboszczyk,the deceased I,,m noun
@@ -1989,6 +1993,7 @@ opisywać,to describe (repeated),,verb
 opodal,nearby,,adverb
 opona,tyre,,f noun
 opowieść,story/tale,,f noun
+oprawka,frames (of glasses) or holder,,f noun
 oprogramowanie,software,,n noun
 oprzeć,to lean/rest (once),,perf verb
 oprócz,"except, apart from",,preposition
@@ -2047,6 +2052,8 @@ oszczędność,thriftiness,,f noun
 oszczędzać,to save/economize (repeated),,verb
 oszczędzić,to save/economize (once),,perf verb
 oszołomić,to stun/bewilder (once),,perf verb
+oszukać,to cheat (once),,perf verb
+oszukiwać,to cheat (repeated),,verb
 oszust,swindler/conman,,m noun
 oszustwo,fraud/deception,,n noun
 osądzić,to think/suppose (once),,perf verb
@@ -2766,6 +2773,8 @@ przekręcić,to turn/rotate (once),,perf verb
 przekształcać,to reshape (repeated),,verb
 przekształcić,to reshape (once),,perf verb
 przekąska,snack,,f noun
+przekłuwać,to prick/pierce (repeated),,verb
+przekłuć,to prick/pierce (once),,perf verb
 przelać pieniądze,to transfer money (once),,perf verb
 przelewać pieniądze,to transfer money (repeated),,verb
 przemakać,to get soaked (repeated),,verb
@@ -2775,6 +2784,8 @@ przemknąć,to flit/sneak (once),,perf verb
 przemoc,violence,,f noun
 przemoknięty,soaked/drenched,,adjective
 przemoknąć,to get soaked (once),,perf verb
+przemycać,to smuggle (repeated),,verb
+przemycić,to smuggle (once),,perf verb
 przemykać,to flit/sneak (repeated),,verb
 przemysł,industry,,m noun
 przemówienie,speech,,n noun
@@ -3393,7 +3404,7 @@ sieć,fishing net,,f noun
 sień,hall,,f noun
 silnik,motor/engine,,m noun
 siniaczyć,to bruise (repeated),,verb
-siny,bluish,,adjective
+siny,bluish I,,adjective
 siodło,saddle,,n noun
 siorbać,to slurp (repeated),,verb
 siorbnąć,to slurp (once),,perf verb
@@ -3525,6 +3536,7 @@ spontaniczny,spontaneous,,adjective
 sporo,a good/great deal,,adverb
 sporządzać,to draw/make up (repeated),,verb
 sporządzić,to draw/make up (once),,perf verb
+spostrzegawczość,perceptiveness,,f noun
 sposób,way/method/approach,,m noun
 spowiadać,to confess (repeated),,verb
 spowiedź,confession,,f noun
@@ -4307,6 +4319,7 @@ wesprzyj (wesprzeć),Support! (once),,imperative
 wesprę (wesprzeć),I will support,,conjugation
 westchnąć,to sigh (once),,perf verb
 weterynarz,vet,,m noun
+wetknąć,to stuff/stick (once),,perf verb
 wewnątrz,inside,,adverb
 wewnętrzny,internal,,adjective
 wezbrany,swollen II,,adjective
@@ -4322,7 +4335,8 @@ weźmiesz (wziąć),You will take,,conjugation
 wgłębienie,recess/cavity,,n noun
 wiara,faith,,f noun
 wiatrak,fan or windmill,,m noun
-wichura,gale,,f noun
+wicher,gale II,Nie ma wichru,m noun
+wichura,gale I,,f noun
 widnieć,to be visible,,verb
 widnokrąg,horizon,Nie ma widnokręgu,m noun
 widocznie,apparently/evidently,,adverb
@@ -4344,6 +4358,7 @@ wierutny,utter/downright,,adjective
 wierzba,willow (tree),,f noun
 wierzchni,outer/top/surface,,adjective
 wierzchowiec,mount,Nie ma wierzchowca,m noun
+wierzchołek,top/peak/apex/summit,Nie ma wierzchołka,m noun
 wierzyć,to believe,Wierzysz mu? (Do you believe me?),verb
 wierzący,believer,,m noun
 wieszak,hanger/coat-stand/coat-rack,,m noun
@@ -4501,6 +4516,7 @@ wsławić się,to get famous (once),,perf verb
 wtaczać,to roll (repeated),,verb
 wtajemniczony,in-the-know,,adjective
 wtoczyć,to roll (once),,perf verb
+wtykać,to stuff/stick (repeated),,verb
 wtór,accompaniment,Do wtóru czegós,m noun
 wybaczać,to forgive (repeated),,verb
 wybaczyć,to forgive (once),,perf verb
@@ -4564,6 +4580,7 @@ wygrać,to win (once),,perf verb
 wygrywać,to win (repeated),,verb
 wygrzebać,to unearth or dig out (once),,perf verb
 wygrzebywać,to unearth or dig out (repeated),,verb
+wygódka,privy,,f noun
 wygładzać,to smooth out (repeated),,verb
 wygładzić,to smooth out (once),,perf verb
 wyhodować,to grow/breed/raise (once),,perf verb
@@ -4941,6 +4958,7 @@ zadrżeć,to shiver (once),,verb
 zaduch,stuffy air,Nie ma zaduchu,m noun
 zadudnić,to rumble (once),,perf verb
 zadumać się nad czymś,to be engrossed in thought over something,,verb
+zadyma,bovver,,f noun
 zadymiony,smoky,,adjective
 zadziwiający,astonishing,,adjective
 zadąć,to blow (once),,perf verb
@@ -5621,6 +5639,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 świeca,candle,,f noun
 świecisz (świecić),You are shining,,conjugation
 świecić,to shine,,verb
+świecznik,candlestick,,m noun
 świecę (świecić),I am shining,,conjugation
 świergot,twittering/chirping,Nie ma świergotu,m noun
 świszczeć,to whistle,,verb
@@ -5655,6 +5674,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 żegnać,to say farewell (repeated),,verb
 żelazko,(an) iron,,n noun
 żelazo,iron,,n noun
+żeliwny,cast-iron,,adjective
 żenić,to get married (to a woman) (repeated),,verb
 żenować,to embarrass I (repeated),,verb
 żmudny,arduous/laborious II,,adjective
