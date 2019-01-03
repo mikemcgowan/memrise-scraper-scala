@@ -146,8 +146,10 @@ beczka,barrel,,f noun
 belka,beam,,f noun
 beton,concrete,Nie ma betonu,m noun
 bezawaryjny,failure-free (without breakdown),,adjective
+bezbronny,defenceless,,adjective
 bezczelność,insolence,,f noun
 bezczynny,idle,,adjective
+bezdenny,bottomless,,adjective
 bezdomny,homeless,,adjective
 bezdzietny,childless,,adjective
 bezgraniczny,endless/boundless II,,adjective
@@ -586,6 +588,7 @@ druzgotać,to crush/smash/shatter (repeated),,verb
 drużba,best man,,m noun
 drużyna,team/squad,,f noun
 drwić,to mock/scoff/jeer I (repeated),,verb
+dryfować,to drift,,verb
 drzazga,splinter,,f noun
 dróżka,path II,,f noun
 drąg,pole/club,,m noun
@@ -609,6 +612,7 @@ dyktando,dictation,,n noun
 dyktatura,dictatorship,,f noun
 dym,smoke,,m noun
 dyskutować,to discuss (repeated),,verb
+dysponować czymś,to have something at one's disposal,,verb
 dyspozycyjność,availability,,f noun
 dyszeć,to wheeze/pant/splutter,,verb
 dyżur,duty hours,Nie ma dyżuru,m noun
@@ -648,6 +652,7 @@ dziób,bill/beak,Nie ma dziobu,m noun
 dół,bottom/pit,Nie ma dołu,m noun
 dąb,oak tree,Nie ma dębu,m noun
 dąć,to blow (repeated),,verb
+dębieć,to be dumbfounded (repeated),,verb
 dłoń,palm/hand,,f noun
 dług,debt,Nie ma długu,m noun
 długoterminowy,long-term,,adjective
@@ -698,6 +703,7 @@ futro,fur coat,,n noun
 gabinet,small or private office,Gabinet lekarski,m noun
 gad,reptile,,m noun
 gadanie,chatter,,n noun
+gadanina,chatter/prattle,,f noun
 galareta,jelly,,f noun
 garbić się,to slouch/stoop (repeated),,verb
 garderoba,cloakroom/wardrobe,,f noun
@@ -724,6 +730,7 @@ giełda,exchange (e.g. stock or labour),,f noun
 ginąć,to be killed (repeated),,verb
 giąć,to bend (repeated),,verb
 gliniany,clay,,adjective
+gliniarz,cop (policeman),,m noun
 gmina,commune/community,,f noun
 gminny,communal,,adjective
 gnat,bone,,m noun
@@ -1008,6 +1015,7 @@ kołyszę (kołysać),I am rocking/swaying,,conjugation
 kościsty,bony,,adjective
 koślawy,crooked,,adjective
 kpić,to mock/scoff/jeer II (repeated),,verb
+kra,ice floe,,f noun
 krach,crash,Krach giełdowy/finansowy,m noun
 kradniesz (kraść),You are stealing,,conjugation
 kradnę (kraść),I am stealing,,conjugation
@@ -1425,6 +1433,7 @@ naostrzyć,to sharpen (once),,perf verb
 napad na kogoś/coś,assault on somebody/something,Nie ma napadu,m noun
 napadać na kogoś/coś,to assault somebody/something (repeated),,verb
 napastnik,assailant/attacker,,m noun
+napawać kogoś czymś,to fill somebody with something,,verb
 napaść na kogoś/coś,to assault somebody/something (once),,verb
 napełniaj (napełniać),Fill! (repeated),,imperative
 napełniam (napełniać),I am filling,,conjugation
@@ -1717,6 +1726,7 @@ obrzeże,edge I,,n noun
 obrzucać,to heap/hurl (repeated),,verb
 obrzucić,to heap/hurl (once),,perf verb
 obrzydliwy,disgusting/sickening,,adjective
+obrzydzenie,disgust,,n noun
 obrócić się,to pivot/revolve (once),,perf verb
 obsada,crew/staff/cast,,f noun
 obskurny,dingy/shabby,,adjective
@@ -2062,6 +2072,7 @@ osłabić,to weaken (once),,perf verb
 osłodzić,to sweeten (once),,perf verb
 osłona,cover/shield,,f noun
 otaczać,to surround (repeated),,verb
+otchłań,abyss,,f noun
 oto,here is/are,Oto rezultaty badań (Here are the results of the study),
 otoczenie,surroundings,,n noun
 otoczyć,to surround (once),,perf verb
@@ -3146,6 +3157,8 @@ rekin,shark,,m noun
 reklamacja,complaint II,,f noun
 reklamować,to advertise (repeated),,verb
 remis,(a) draw,Nie ma remisu,m noun
+rentgen,X-ray,,m noun
+rentgenowski,X-ray,,adjective
 rewanż,rematch (revenge),Nie ma rewanżu,m noun
 robak,bug,,m noun
 rocznica,anniversary,,f noun
@@ -3830,6 +3843,8 @@ taszczyć,to lug (repeated),,verb
 taśma,(sticky) tape,,f noun
 tchórz,(a) coward,,m noun
 teczka,briefcase,,f noun
+tektura,cardboard,,f noun
+tekturowy,cardboard,,adjective
 tematyka,subject matter,,f noun
 temblak,(arm) sling,Nie ma temblaku,m noun
 temu,ago,Dwa tygodnie temu dostałem pracę,adverb
@@ -4144,6 +4159,7 @@ urodzaj,harvest,Nie ma urodzaju,m noun
 urodzajny,fertile,,adjective
 urodzenie,birth,Data urodzenia,n noun
 urodzić,to give birth to (once),,perf verb
+urojenie,illusion/delusion,,n noun
 urojony,imaginary,,adjective
 urok,appeal/attraction/charm,Nie ma uroku,m noun
 urosnąć,to grow (once),,perf verb
@@ -4369,6 +4385,7 @@ wieża,tower,,f noun
 wieżowiec,high rise block,Nie ma wieżowca,m noun
 wikłać w coś,to get involved/entangled in something (repeated),,verb
 wilgotny,damp/humid/moist,,adjective
+wilgoć,dampness/moisture,,f noun
 winny,guilty,,adjective
 winorośl,grapevine,,f noun
 wiodę (wieść),I am leading,,conjugation
@@ -5194,6 +5211,7 @@ zatarg,dispute/clash/feud,Nie ma zatargu,m noun
 zataszczyć,to lug (once),,perf verb
 zatem,thus/ergo,,adverb
 zatkany,clogged,,adjective
+zatkać,to clog (once),,perf verb
 zatoka,bay,,f noun
 zatonąć,to sink (once),,perf verb
 zatroszczyć się,to take care of (once),,perf verb
@@ -5204,6 +5222,7 @@ zatrzymać,to stop (motion) (once),Kierowca zatrzymał autobus (The driver stopp
 zatrzymywać,to stop (motion) (repeated),,verb
 zatrząść się,to shake (once),,perf verb
 zatrąbić,to honk/bellow (once),,perf verb
+zatykać,to clog (repeated),,verb
 zatłoczony,crowded,,adjective
 zaufanie,trust,,n noun
 zaufać,to trust (once),,perf verb
@@ -5339,6 +5358,7 @@ zdziwienie,surprise/astonishment,,n noun
 zdziwić się,to be surprised (once),,perf verb
 zdążać,to be on time (repeated),,verb
 zdążyć,to be on time (once),,perf verb
+zdębieć,to be dumbfounded (once),,perf verb
 zebranie,meeting,,n noun
 zebrać,to collect/gather/save (once),,perf verb
 zechcieć,to feel like,,verb
