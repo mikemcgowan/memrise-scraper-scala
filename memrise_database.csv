@@ -139,6 +139,7 @@ bandyci,bandits,,m plural noun
 bandyta,bandit,,m noun
 barierka,barrier,,f noun
 barwa,colour,,f noun
+barwić,to dye (repeated),,verb
 barwny,colourful,,adjective
 bawełna,cotton,,f noun
 bać się,"to be scared, to fear",,verb
@@ -229,6 +230,8 @@ bronić,to defend (repeated),,verb
 broń,weapon,,f noun
 brudzić,to dirty (repeated),,verb
 brukowiec,tabloid,Nie ma brukowca,m noun
+bryzgać,to splash (repeated),,verb
+bryznąć,to splash (once),,perf verb
 bryła,lump/clod,,f noun
 brzeg,edge/brim,Nie ma brzegu,m noun
 brzmienie,sound/tone,,n noun
@@ -377,6 +380,7 @@ czcisz (czcić),You are honouring,,conjugation
 czcić,to honour (repeated),,verb
 czczę (czcić),I am honouring,,conjugation
 czekanie,waiting,,n noun
+czeluść,abyss II,,f noun
 czepiać się,to pick on,,verb
 czerpać,to draw/derive,,verb
 czerwiec,June,,m noun
@@ -723,6 +727,8 @@ gawędzić,to chat (repeated),,verb
 gałąź,branch,Nie ma gałęzi,f noun
 gaś (gasić),Extinguish! (repeated),,imperative
 gaśniesz (gasnąć),You are going out,,conjugation
+gdakać,to cackle (repeated),,verb
+gdaknąć,to cackle (once),,perf verb
 gdyż,because,,conjunction
 geneza,genesis/origin,,f noun
 gest,gesture,Nie ma gestu,m noun
@@ -751,6 +757,7 @@ gonisz (gonić),You are chasing,,conjugation
 gonić,to chase,,verb
 gonię (gonić),I am chasing,,conjugation
 gorliwy,ardent/fervent/eager/zealous,,adjective
+gorycz,bitterness,,f noun
 gorączka,fever,,f noun
 gorętszy,hotter,,adjective
 gospoda,inn,,f noun
@@ -992,6 +999,7 @@ kopniak,kick,,m noun
 kopnąć,to kick (once),,perf verb
 kora,bark (skin of a tree),,f noun
 korcić,to tempt,,verb
+koronkowy,lacy,,adjective
 korumpować,to corrupt (repeated),,verb
 korygować,to correct/rectify/revise (repeated),,verb
 koryto,trough or river bed,,n noun
@@ -1121,6 +1129,7 @@ laska,walking stick,,f noun
 latarka,torch/flashlight,,f noun
 latarnia morska,lighthouse,,phrase
 latawiec,kite,Nie ma latawca,m noun
+lawina,avalanche,,f noun
 lecieć,to fly (repeated),,verb
 lecisz (lecieć),You are flying,,conjugation
 lecz,but,,conjunction
@@ -1189,6 +1198,7 @@ makler,stock broker,,m noun
 maleć,to diminish (repeated),,verb
 mandat,ticket/fine,Nie ma mandatu,m noun
 marka,brand/make,,f noun
+markotny,glum/moody,,adjective
 marmur,marble,Nie ma marmuru,m noun
 marnować,to waste (repeated),,verb
 marny,weak/feeble/flimsy,,adjective
@@ -1261,6 +1271,7 @@ mit,myth,Nie ma mitu,m noun
 miąć,to crumple (repeated),,verb
 mięknąć,to soften (repeated),,verb
 mięsień,muscle,Nie ma mięśnia,m noun
+miłosierdzie,mercy,,n noun
 miłośniczka,lover/enthusiast (female),,f noun
 miłośnik,lover/enthusiast (male),,m noun
 mknąć,to speed,,verb
@@ -1504,6 +1515,7 @@ nawałnica,tempest/squall/storm/blizzard,,f noun
 nawias,bracket,Nie ma nawiasu,m noun
 nawiedzać,to haunt (repeated),,verb
 nawiedzić,to haunt (once),,perf verb
+nawis,overhang,Nie ma nawisu,m noun
 nawyk,habit/practice/custom,Nie ma nawyku,m noun
 nawóz,fertilizer/manure,Nie ma nawozu,m noun
 nazbierać,to pick/collect/gather,,verb
@@ -1628,6 +1640,7 @@ nieśmiały,shy,,adjective
 nieśmiertelność,immortality,,f noun
 nijaki,nondescript/neuter,,adjective
 niszczyć,to devastate/destroy (repeated),,verb
+nizina,lowland,,f noun
 niższość,inferiority,,f noun
 niższy,lower,,adjective
 nocleg,overright accommodation,Nie ma noclegu,m noun
@@ -2072,7 +2085,7 @@ osłabić,to weaken (once),,perf verb
 osłodzić,to sweeten (once),,perf verb
 osłona,cover/shield,,f noun
 otaczać,to surround (repeated),,verb
-otchłań,abyss,,f noun
+otchłań,abyss I,,f noun
 oto,here is/are,Oto rezultaty badań (Here are the results of the study),
 otoczenie,surroundings,,n noun
 otoczyć,to surround (once),,perf verb
@@ -2149,6 +2162,7 @@ paskudny,horrid/nasty,,adjective
 paskudztwo,eyesore/abomination,,n noun
 pastwisko,pasture,,n noun
 pasujący,matching,,adjective
+pasza,feed/fodder,,f noun
 paszcza,muzzle,,f noun
 patelnia,(frying) pan,,m noun
 patetyczny,pompous,,adjective
@@ -2182,6 +2196,7 @@ pielęgnować,to nurse or cultivate,,verb
 pieniądze,money,Nie ma pieniędzy,m plural noun
 pienić się,to froth/foam,,verb
 pieniężny,monetary,,adjective
+pieprzony,sodding/effing,,adjective
 pierwotny,primitive,,adjective
 pierwszeństwo,priority/precedence,,n noun
 pierzesz (prać),You are laundering,,conjugation
@@ -2347,6 +2362,7 @@ pohasać,to gambol (once),,perf verb
 poinstruować,to instruct (once),,perf verb
 pojawiać się,"to appear, to show up (repeated)",,perf verb
 pojawić się,"to appear, to show up (once)",,perf verb
+pojednanie,reconciliation,,n noun
 pojednawczy,conciliatory,,adjective
 pojedynczy,singular,,adjective
 pojemnik,container,,m noun
@@ -2522,6 +2538,7 @@ posłanie,bedding,,n noun
 posługiwać się czymś,to make use of something (repeated),,verb
 posłuszny,obedient,,adjective
 posłużyć się czymś,to make use of something (once),,perf verb
+potargać,to tousle/ruffle,,verb
 potas,potassium,Nie ma potasu,m noun
 potentat,mogul/tycoon/magnate,,m noun
 potknąć się,to stumble/trip (once),,perf verb
@@ -2735,6 +2752,7 @@ przedmiot,object/subject (e.g. history),,m noun
 przedni,front/forward/superior,,adjective
 przedpłata,down/advance payment,,f noun
 przedrzeć się przez coś,to struggle through something (once),,perf verb
+przedrzeźniać,to mimic/imitate,,verb
 przedsiębiorca,entrepreneur,,m noun
 przedsiębiorstwo,enterprise,,n noun
 przedsięwzięcie,undertaking/venture,,n noun
@@ -3239,6 +3257,8 @@ rozniecać,to kindle (repeated),,verb
 rozniecić,to kindle (once),,perf verb
 rozpacz,despair,,f noun
 rozpaczliwy,desperate,,adjective
+rozpleniać się,to proliferate (repeated),,verb
+rozplenić się,to proliferate (once),,perf verb
 rozpoczynać się,to begin/commence (repeated),,verb
 rozpocząć się,to begin/commence (once),,perf verb
 rozpostrzeć,to outstretch (once),,perf verb
@@ -3368,6 +3388,7 @@ ręcznie,by hand,,adverb
 rękaw,sleeve,,m noun
 rękojeść,handle/hilt/grip,,f noun
 rękopis,manuscript,Nie ma rękopisu,m noun
+rżeć,to neigh (repeated),,verb
 sad,orchard,Nie ma sadu,m noun
 sadzawka,pond,,f noun
 sakiewka,pouch/purse,,f noun
@@ -3457,6 +3478,7 @@ skraj,brink,Nie ma skraju,m noun
 skrajny,extreme,,adjective
 skrawek,scrap/patch,Nie ma strawka,m noun
 skromny,humble/modest,,adjective
+skrucha,repentance/remorse,,f noun
 skruszony,apologetic/repentant,,adjective
 skrytka,hiding place I,,f noun
 skrytykować,to criticise (once),,perf verb
@@ -3487,6 +3509,8 @@ skurczyć się,to shrink (once),,perf verb
 skusić,to tempt/entice (once),,perf verb
 skuteczny,effective,,adjective
 skutek,consequence/result/effect,,m noun
+skuwać,to handcuff/chain (repeated),,verb
+skuć,to handcuff/chain (once),,perf verb
 skwapliwy,eager II,,adjective
 skórzany,leather,,adjective
 skądże,not at all,,pronoun
@@ -3497,6 +3521,8 @@ składnik,component/element/ingredient,,m noun
 skłamać,to lie (once),,perf verb
 skłonność,tendency/propensity/vulnerability,,f noun
 skłonny,prone/susceptible,,adjective
+smagać,to whip/lash (repeated),,verb
+smagnąć,to whip/lash (once),,perf verb
 smarkacz,brat/snotnose,,m noun
 smarować,to spread/rub/grease/smear (repeated),,verb
 smażyć,to fry (repeated),,verb
@@ -3507,6 +3533,7 @@ smukły,slim/slender/willowy,,adjective
 smutek,sorrow,,m noun
 smycz,lead/leash,,f noun
 smętny,melancholy,,adjective
+snuć,to spin (repeated),,verb
 soczewica,lentil,,f noun
 soczewka,lens II,,f noun
 soczysty,juicy,,adjective
@@ -3680,7 +3707,7 @@ strzepywać,to flick/brush (repeated),,verb
 strzeżesz (strzec),You are guarding,,conjugation
 strzykawka,syringe,,f noun
 strzęp,shred/snippet,Nie ma strzępu,m noun
-strój,dress/attire,Nie ma stroju,m noun
+strój,dress/attire I,Nie ma stroju,m noun
 stróż,watchman,,m noun
 strącać,to knock off (repeated),,verb
 strącić,to knock off (once),,perf verb
@@ -3746,6 +3773,8 @@ szczotkować,to brush (repeated),,verb
 szczupły,lean,,adjective
 szczur,rat,,m noun
 szczycić się czymś,to take pride in something,,verb
+szczypać,to pinch (repeated),,verb
+szczypnąć,to pinch (once),,perf verb
 szczypta,pinch,Szczypta soli,f noun
 szczyt,peak/summit,Nie ma szczytu,m noun
 szczęka,jaw,,f noun
@@ -3961,6 +3990,7 @@ ubezpieczony,insured,,adjective
 ubiegać się o coś,to apply for something,,verb
 ubiegły,last,W ubiegłym roku,adjective
 ubierać,to dress (repeated),,verb
+ubiór,dress/attire II,Nie ma ubioru,m noun
 ubocze,out-of-the-way place,,n noun
 ubogi,"poor (as in, not rich)",,adjective
 ubrać,to dress (once),,perf verb
@@ -4155,7 +4185,7 @@ uroczy,charming,,adjective
 uroczystość,ceremony (e.g. wedding/funeral),,f noun
 uroczysty,festive/celebratory,,adjective
 uroda,beauty,,f noun
-urodzaj,harvest,Nie ma urodzaju,m noun
+urodzaj,harvest I,Nie ma urodzaju,m noun
 urodzajny,fertile,,adjective
 urodzenie,birth,Data urodzenia,n noun
 urodzić,to give birth to (once),,perf verb
@@ -4181,6 +4211,7 @@ urzędnik,official or civil servant,,m noun
 uschnąć,to wither (once),,perf verb
 usiłować,to try/attempt,,verb
 usmażyć,to fry (once),,perf verb
+usnuć,to spin (once),,perf verb
 uspokajać się,to calm (oneself) down (repeated),,verb
 uspokoisz się (uspokoić się),You will calm down,,conjugation
 uspokoić się,to calm (oneself) down (once),,perf verb
@@ -4911,6 +4942,7 @@ zaaferowany czymś,preoccupied with something,,adjective
 zaangażowany,committed,,adjective
 zaangażować się,to involve oneself in (once),Oboje zaangażowali się w działalność opozycyjną,perf verb
 zaapelować,to appeal (once),,perf verb
+zabarwić,to dye (once),,perf verb
 zabawa,fun,,f noun
 zabezpieczać,to protect/guard (repeated),,verb
 zabezpieczyć,to protect/guard (once),,perf verb
@@ -5113,6 +5145,7 @@ zapas,reserve/stock/supply,Nie ma zapasu,m noun
 zapasowy,spare/reserve/emergency,,adjective
 zapał,zeal/fervour,Nie ma zapału,m noun
 zapaśnik,wrestler,,m noun
+zapchany,choked/crammed/stuffed,,adjective
 zapewne,surely,,adverb
 zapierać się,to brace (repeated),,verb
 zapisać,to record/save (once),,perf verb
@@ -5161,6 +5194,7 @@ zarządzanie,management,,n noun
 zarówno,as well as,,adverb
 zaręczynowy,engagement/betrothal,,adjective
 zaręczyny,engagement/betrothal,,f plural noun
+zarżeć,to neigh (once),,perf verb
 zasada,rule,Zasady nie są dla nas! (The rules aren't for us!),f noun
 zasadniczy,fundamental/essential,,adjective
 zasadzać,to plant (repeated),,verb
@@ -5274,6 +5308,7 @@ załadować,to load (once),,perf verb
 załatwiać,to take care of business (repeated),,verb
 załatwić,to take care of business (once),,perf verb
 załoga,crew/staff,,f noun
+załomotać,to thump (once),,perf verb
 założyć,"to found/establish/install, to put on clothes (once)",,perf verb
 zaśmiać się,to laugh (once),,perf verb
 zaświadczyć,to testify/witness I (once),,perf verb
@@ -5413,6 +5448,7 @@ zgoda,agreement,,f noun
 zgodnie,in agreement,,adverb
 zgodzić się,to agree (once),,perf verb
 zgrabny,shapely,,adjective
+zgraja,gang,,f noun
 zgromadzić,to amass/gather (once),,perf verb
 zgroza,horror,,f noun
 zgwałcić,to rape/violate (once),,perf verb
@@ -5450,6 +5486,7 @@ zmienię (zmienić),I will change,,conjugation
 zmienny,fickle,,adjective
 zmierzać do czegoś,to head for something,,verb
 zmierzch,dusk/twilight,Nie ma zmierzchu,m noun
+zmierzwiony,ruffled,,adjective
 zmień (zmienić),Change! (once),,imperative
 zmieścić się,to fit (once),,perf verb
 zmiąć,to crumple (once),,perf verb
@@ -5521,6 +5558,7 @@ zwalczyć,to fight/combat (against) (once),,perf verb
 zwalniać,to reduce/release/vacate/dismiss (repeated),,verb
 zważyć,to weigh (once),,perf verb
 zwiad,reconnaissance,Nie ma zwiadu,m noun
+zwichnąć,to sprain/dislocate,,verb
 zwiedzaj (zwiedzać),Visit/sightsee! (repeated),,imperative
 zwiedzający,visitor,,m noun
 zwiedzam (zwiedzać),I am visiting/sightseeing,,conjugation
@@ -5594,6 +5632,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 łańcuch,chain,,m noun
 łgać,to fib (repeated),,verb
 łokieć,elbow,Nie ma łokcia,m noun
+łomotać,to thump (repeated),,verb
 łono,lap/bosom,Na łono przyrody,n noun
 łopata,shovel/spade,,f noun
 łopot,flapping/flutter,Nie ma łopotu,m noun
@@ -5698,6 +5737,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 żenić,to get married (to a woman) (repeated),,verb
 żenować,to embarrass I (repeated),,verb
 żmudny,arduous/laborious II,,adjective
+żniwa,harvest II,,f noun
 żuć,to chew,,verb
 życiorys,C.V.,Nie ma życiorysu,m noun
 życzenie,wish,Masz trzy życzenia! (You have three wishes!),n noun
