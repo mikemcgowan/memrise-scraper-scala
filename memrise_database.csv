@@ -141,6 +141,7 @@ barierka,barrier,,f noun
 barwa,colour,,f noun
 barwić,to dye (repeated),,verb
 barwny,colourful,,adjective
+bat,whip II,,m noun
 bawełna,cotton,,f noun
 bać się,"to be scared, to fear",,verb
 beczka,barrel,,f noun
@@ -173,6 +174,7 @@ bezstronny,impartial,,adjective
 bezszelestny,silent,,adjective
 bezwzględny,ruthless,,adjective
 bezładny,disorderly/chaotic,,adjective
+bicz,whip I,,m noun
 biedzić się nad czymś,to take a lot of trouble over something,,verb
 bieganie,running,,n noun
 biegły,proficient/adept,,adjective
@@ -243,6 +245,8 @@ brzoza,birch (tree),,f noun
 brzęczeć,to clink/chink (repeated),,verb
 brzęk,clink/clank,Nie ma brzęku,m noun
 bród,ford (of a river),Nie ma brodu,m noun
+buchać,to flare up or belch out (repeated),,verb
+buchnąć,to flare up or belch out (once),,perf verb
 budować,to build (repeated),,verb
 bujny,luxuriant,,adjective
 bunt,rebellion/mutiny,Nie ma buntu,m noun
@@ -709,6 +713,7 @@ gad,reptile,,m noun
 gadanie,chatter,,n noun
 gadanina,chatter/prattle,,f noun
 galareta,jelly,,f noun
+ganić,to rebuke or criticise (repeated),,verb
 garbić się,to slouch/stoop (repeated),,verb
 garderoba,cloakroom/wardrobe,,f noun
 garnek,(cooking) pot,Nie ma garnka,m noun
@@ -822,6 +827,7 @@ głośnik,(loud)speaker,,m noun
 głuchy,deaf,,adjective
 głąb,the depths,,f noun
 głębokość,depth,,f noun
+haczyk,hook/catch,,m noun
 hak,hook,,m noun
 handel,trade/retail,,m noun
 harcerstwo,scouting,,n noun
@@ -943,6 +949,7 @@ kiełkować plan/pomysł,to hatch a plan (repeated),,verb
 kij,stick,,m noun
 kikut,stump,,m noun
 kilkanaście,a dozen or so,,numeral
+kilof,pickaxe,,m noun
 kiwać,to nod (repeated),,verb
 kiwnąć,to nod (once),,perf verb
 klamka,handle,,f noun
@@ -951,6 +958,7 @@ klasnąć,to clap hands (once),,perf verb
 klatka,cage,,f noun
 klawisz,piano key,,m noun
 klejnot,jewel,Nie ma klejnotu,m noun
+kleszcze,pliers/forceps,,f plural noun
 klin,wedge,,m noun
 klomb,flower-bed,Nie ma klombu,m noun
 klon,maple (tree) or clone,Nie ma klonu,m noun
@@ -1021,7 +1029,7 @@ kołyska,cradle,,f noun
 kołyszesz (kołysać),You are rocking/swaying,,conjugation
 kołyszę (kołysać),I am rocking/swaying,,conjugation
 kościsty,bony,,adjective
-koślawy,crooked,,adjective
+koślawy,crooked I,,adjective
 kpić,to mock/scoff/jeer II (repeated),,verb
 kra,ice floe,,f noun
 krach,crash,Krach giełdowy/finansowy,m noun
@@ -1063,6 +1071,7 @@ krzyknę (krzyknąć),I will shout,,conjugation
 krzywa,curve,,f noun
 krzywda,harm,,f noun
 krzywdzić,to harm/hurt (repeated),,verb
+krzywy,crooked II,,adjective
 krzyż,cross,,m noun
 krój,cut/style/cutting,Nie ma kroju,m noun
 królewicz,prince I,,m noun
@@ -1197,6 +1206,7 @@ makabryczny,macabre,,adjective
 makler,stock broker,,m noun
 maleć,to diminish (repeated),,verb
 mandat,ticket/fine,Nie ma mandatu,m noun
+mankament,shortcoming,Nie ma mankamentu,m noun
 marka,brand/make,,f noun
 markotny,glum/moody,,adjective
 marmur,marble,Nie ma marmuru,m noun
@@ -1717,6 +1727,8 @@ oblicze,face,,n noun
 obliczyć,to calculate/compute/estimate (once),,perf verb
 obluzować,to loosen (once),,perf verb
 obluzowywać,to loosen (repeated),,verb
+obmacać,to feel/grope (once),,perf verb
+obmacywać,to feel/grope (repeated),,verb
 obniżać,to lower (repeated),,verb
 obniżyć,to lower (once),,perf verb
 oboje,both (man and woman),Oboje pracują w szkole ((They) both work in a school),pronoun
@@ -2036,6 +2048,7 @@ opłukać,to rinse (once),,perf verb
 orzec,to rule/adjudicate (once),,perf verb
 orzekać,to rule/adjudicate (repeated),,verb
 orzeł,eagle,Widzę orła,m noun
+oręż,arms (weapons),,m noun
 osada,settlement,,f noun
 osadzać,to embed (repeated),,verb
 osadzić,to embed (once),,perf verb
@@ -2184,6 +2197,7 @@ pełznąć,to slither (once),,perf verb
 piaskownica,sandpit,,f noun
 piaszczysty,sandy,,adjective
 picie,drinking,,n noun
+pieczara,cavern,,f noun
 pieczarka,(a kind of) mushroom,,f noun
 pieczeń,roast,,f noun
 pieg,freckle,,m noun
@@ -2617,6 +2631,7 @@ powyższy,preceeding/above,Proszę znaleźć w powyższym zadaniu,adjective
 powód,reason,Nie ma powodu,m noun
 powódź,flood,,f noun
 powąchać,to smell/sniff (once),,perf verb
+powłoka,shell/coating,,f noun
 poza tym,anyway/besides,,adverb
 pozalekcyjny,after-school,,adjective
 pozaziemski,"alien (as in, extra-terrestrial)",Istota pozaziemska,adjective
@@ -3537,6 +3552,7 @@ snuć,to spin (repeated),,verb
 soczewica,lentil,,f noun
 soczewka,lens II,,f noun
 soczysty,juicy,,adjective
+sojusz,alliance,Nie ma sojuszu,m noun
 sonda,opinion poll,,f noun
 sosna,pine tree,,f noun
 spadać,to fall/drop (repeated),,verb
@@ -3730,6 +3746,8 @@ stęknąć,to moan/groan II (once),,perf verb
 stępiać,to become blunt (repeated),,verb
 stępić,to become blunt (once),,perf verb
 stęskniony,longing,,adjective
+stłaczać,to crowd/cram (repeated),,verb
+stłoczyć,to crowd/cram (once),,perf verb
 sumienie,conscience,,n noun
 sumienny,conscientious,,adjective
 surowy,raw/harsh/severe,,adjective
@@ -3745,6 +3763,7 @@ syknąć,to hiss (once),,perf verb
 sylwetka,silhouette,,f noun
 synowa,daughter-in-law,,f noun
 syty,satiated,,adjective
+szabla,sabre,,f noun
 szacować,to estimate/assess (repeated),,verb
 szacunek,respect,"Pamiętaj, szacunek to wszystko!",m noun
 szafka,wall cupboard,,f noun
@@ -3753,6 +3772,8 @@ szaleństwo,madness/insanity,,n noun
 szalony,insane,,adjective
 szanowny,honourable,,adjective
 szarfa,sash,,f noun
+szarpać,to jerk/yank (repeated),,verb
+szarpnąć,to jerk/yank (once),,perf verb
 szarzeć,to turn grey (repeated),,verb
 szał,frenzy/delirium/lunacy,Nie ma szału,m noun
 szałas,hut,Nie ma szałasu,m noun
@@ -3954,6 +3975,8 @@ trzęsę się (trząść się),I am shaking,,conjugation
 trąbić,to honk/bellow (repeated),,verb
 trąbka,trumpet,,f noun
 tu i ówdzie,here and there,,phrase
+tupać,to stamp (repeated),,verb
+tupnąć,to stamp (once),,perf verb
 tuzin,dozen,,m noun
 tuż,nearby/just,Tuż przed/po czymś,adverb
 twierdzić,to assert/claim (repeated),,verb
@@ -4248,6 +4271,7 @@ utkać,to weave (once),,perf verb
 utkwić,to get stuck (once),,perf verb
 utopić,to drown (once),,perf verb
 utracić,to lose (something) (once),,perf verb
+utrapienie,nuisance,,n noun
 utrata,loss II,,f noun
 utrudniać,to impede/hinder (repeated),,verb
 utrudnić,to impede/hinder (once),,perf verb
@@ -4387,6 +4411,7 @@ wichura,gale I,,f noun
 widnieć,to be visible,,verb
 widnokrąg,horizon,Nie ma widnokręgu,m noun
 widocznie,apparently/evidently,,adverb
+widowisko,spectacle,,n noun
 widownia,audience,,f noun
 wiec,rally or mass meeting,Nie ma wiecu,m noun
 wieczny,eternal/endless,,adjective
@@ -4450,6 +4475,7 @@ wkuwać,to swot up on (repeated),,verb
 wkuć,to swot up on (once),,perf verb
 wkład,input/contribution,Nie ma wkładu,m noun
 wkładać,to put/place (repeated),,verb
+wlec,to drag (repeated),,verb
 wlepiać,to stick/paste onto (repeated),,verb
 wlepić,to stick/paste onto (once),,perf verb
 wmieszać się,to mingle,,verb
@@ -4682,9 +4708,11 @@ wymarzony,ideal/dream,,adjective
 wymawiać,to pronounce/utter (repeated),,verb
 wymiana,exchange/interchange,,f noun
 wymieniony,mentioned,,adjective
+wymierać,to die out or become extinct (repeated),,verb
 wymieszać,to mix (once),,perf verb
 wymiotować,to vomit (repeated),,verb
 wymknąć się,to slip out (once),,perf verb
+wymrzeć,to die out or become extinct (once),,perf verb
 wymuszony,forced/strained,,adjective
 wymykać się,to slip out (repeated),,verb
 wymyślać,to invent (repeated),,verb
@@ -5285,6 +5313,7 @@ zawinąć,to wrap up (once),,perf verb
 zawiodę się (zawieść się),I will be let down,,conjugation
 zawiązać,to tie (once),,perf verb
 zawiść,envy,,f noun
+zawlec,to drag (once),,perf verb
 zawodnik,player,,m noun
 zawodowy,professional I,,adjective
 zawodzić się,to be let down (repeated),,verb
@@ -5434,6 +5463,7 @@ zgadnąć,to guess (once),,perf verb
 zgadywanka,guessing game,,f noun
 zgadywać,to guess (repeated),,verb
 zgadzać się,to agree (repeated),,verb
+zganić,to rebuke or criticise (once),,perf verb
 zgarbić się,to slouch/stoop (once),,perf verb
 zgasić,"to put out, to extinguish (once)",,perf verb
 zgasnąć,to go out (once),,perf verb
