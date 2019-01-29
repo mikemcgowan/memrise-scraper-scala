@@ -539,6 +539,7 @@ dostrzegę (dostrzec),I will spot/notice,,conjugation
 dostrzeżesz (dostrzec),You will spot/notice,,conjugation
 dostęp,access to (something),,m noun
 dostępny,accessible,,adjective
+doszczętny,complete/utter,,adjective
 dosłownie,literally,,adverb
 dotacja,subsidy/grant,,f noun
 dotkliwy,severe/bitter/biting,Dotkliwy ból/strata/wiatr,adjective
@@ -740,6 +741,7 @@ gest,gesture,Nie ma gestu,m noun
 giełda,exchange (e.g. stock or labour),,f noun
 ginąć,to be killed (repeated),,verb
 giąć,to bend (repeated),,verb
+gleba,soil,,f noun
 gliniany,clay,,adjective
 gliniarz,cop (policeman),,m noun
 gmina,commune/community,,f noun
@@ -844,6 +846,7 @@ hrabia,count,,m noun
 huk,boom/crash,Nie ma huku,m noun
 hurtownia,wholesaler,,f noun
 huta,steelworks/ironworks,,f noun
+igła,needle,Nie ma dużo igieł,f noun
 iloraz,quotient,Nie ma ilorazu,m noun
 imadło,vice,,n noun
 imbir,ginger,Nie ma imbiru,m noun
@@ -1073,6 +1076,7 @@ krzywda,harm,,f noun
 krzywdzić,to harm/hurt (repeated),,verb
 krzywy,crooked II,,adjective
 krzyż,cross,,m noun
+krzątać się,to bustle,,verb
 krój,cut/style/cutting,Nie ma kroju,m noun
 królewicz,prince I,,m noun
 królowa,queen,,f noun
@@ -1204,6 +1208,7 @@ majaczyć,to hallucinate/rave,,verb
 majątek,asset/property,Nie ma majątku,m noun
 makabryczny,macabre,,adjective
 makler,stock broker,,m noun
+makulatura,waste paper,,f noun
 maleć,to diminish (repeated),,verb
 mandat,ticket/fine,Nie ma mandatu,m noun
 mankament,shortcoming,Nie ma mankamentu,m noun
@@ -1362,6 +1367,7 @@ mógł,He was able to,,conjugation
 mówienie,speaking,,n noun
 mózg,brain,Nie ma mózgu,m noun
 męczarnia,torment/torture,,f noun
+męczeństwo,martyrdom,,n noun
 męczyć się,to suffer II (repeated),,verb
 męczący,tiresome/tiring,,adjective
 mędrzec,sage (wise man),Nie ma mędrca,m noun
@@ -1526,6 +1532,7 @@ nawias,bracket,Nie ma nawiasu,m noun
 nawiedzać,to haunt (repeated),,verb
 nawiedzić,to haunt (once),,perf verb
 nawis,overhang,Nie ma nawisu,m noun
+nawożenie,fertilization,,n noun
 nawyk,habit/practice/custom,Nie ma nawyku,m noun
 nawóz,fertilizer/manure,Nie ma nawozu,m noun
 nazbierać,to pick/collect/gather,,verb
@@ -1621,6 +1628,7 @@ nieudolnie,clumsily,,adverb
 nieuleczalny,incurable,,adjective
 nieunikniony,unavoidable,,adjective
 nieustannie,continuously/continually,,adverb
+nieustępliwy,unyielding,,adjective
 nieuzasadniony,unfounded,,adjective
 niewiadomy,unknown,,adjective
 niewiarygodny,unbelievable/incredible,,adjective
@@ -2173,6 +2181,7 @@ pasażer,passenger,,m noun
 pasiasty,striped I,,adjective
 paskudny,horrid/nasty,,adjective
 paskudztwo,eyesore/abomination,,n noun
+pasożyt,parasite,,m noun
 pastwisko,pasture,,n noun
 pasujący,matching,,adjective
 pasza,feed/fodder,,f noun
@@ -2211,6 +2220,7 @@ pieniądze,money,Nie ma pieniędzy,m plural noun
 pienić się,to froth/foam,,verb
 pieniężny,monetary,,adjective
 pieprzony,sodding/effing,,adjective
+pierwiastek,(chemical) element,Nie ma pierwiastka,m noun
 pierwotny,primitive,,adjective
 pierwszeństwo,priority/precedence,,n noun
 pierzesz (prać),You are laundering,,conjugation
@@ -2410,6 +2420,7 @@ pokłonić,to bow (once),,perf verb
 pokłusować,to trot/amble (once),,perf verb
 pokłócić się,to argue (once),,perf verb
 polana,glade,,f noun
+polano,log,,n noun
 polać,to pour (once),,perf verb
 polecać,to recommend (repeated),,verb
 polecieć,to fly (once),,perf verb
@@ -3409,6 +3420,7 @@ sadzawka,pond,,f noun
 sakiewka,pouch/purse,,f noun
 samobójczy,suicidal,,adjective
 samobójstwo,suicide,,n noun
+samoczynny,automatic,,adjective
 samodzielność,autonomy,,f noun
 samoistny,independent II,,adjective
 samolubny,selfish,,adjective
@@ -3541,6 +3553,7 @@ smagnąć,to whip/lash (once),,perf verb
 smarkacz,brat/snotnose,,m noun
 smarować,to spread/rub/grease/smear (repeated),,verb
 smażyć,to fry (repeated),,verb
+smoła,tar,,f noun
 smucisz się (smucić się),You are saddened,,conjugation
 smucić się,to be sad (repeated),,verb
 smucę się (smucić się),I am saddened,,conjugation
@@ -4018,6 +4031,7 @@ ubocze,out-of-the-way place,,n noun
 ubogi,"poor (as in, not rich)",,adjective
 ubrać,to dress (once),,perf verb
 ubrudzić,to dirty (once),,perf verb
+ubytek,loss III,Nie ma ubytku,m noun
 ubóstwo,poverty,,n noun
 ubóść,to butt (once),,perf verb
 ubłagać,to beg (once),,perf verb
@@ -4349,6 +4363,7 @@ warczeć,to growl/snarl (repeated),,verb
 wariacki,crazy,,adjective
 warknąć,to growl/snarl (once),,perf verb
 warkocz,braid/plait,,m noun
+warkot,drone/whirr,Nie ma warkotu,m noun
 warownia,stronghold,,f noun
 warstwa,layer/coat,,f noun
 warsztat,workshop,,m noun
@@ -4569,6 +4584,7 @@ wstawać,to get up (repeated),,verb
 wstawiać,to put/insert/replace (repeated),,verb
 wstawić,to put/insert/replace (once),,perf verb
 wstać,to get up (once),,perf verb
+wstecz,backwards,,adverb
 wstrzykiwać coś komuś,to inject somebody with something (repeated),,verb
 wstrzyknąć coś komuś,to inject somebody with something (once),,perf verb
 wstrząs,shock,Nie ma wstrząsu,m noun
@@ -4869,6 +4885,7 @@ wywiążę (wywiązać),I will set in,,conjugation
 wywołać,to elicit/invoke/induce (once),,perf verb
 wywoływać,to elicit/invoke/induce (repeated),,verb
 wywróżyć,to foretell (once),,perf verb
+wywód,argument/reasoning,Nie ma wywodu,m noun
 wyzdrowieć,to recuperate (once),,perf verb
 wyznaczać,to appoint/designate (repeated),,verb
 wyznaczyć,to appoint/designate (once),,perf verb
@@ -5571,6 +5588,7 @@ zresztą,"anyway, after all, besides",,particle
 zrozpaczony,desperate/despairing,,adjective
 zrywać,to sever/strip (repeated),,verb
 zrzednąć,to become thin (once),,perf verb
+zrzeszenie,association/affiliation,,n noun
 zrzeszony w czymś,affiliated to/with something,,adjective
 zsunąć się,to slide off/down (once),,perf verb
 zsuwać się,to slide off/down (repeated),,verb
@@ -5660,6 +5678,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 łatka,patch/spot,,f noun
 ławka,bench,,f noun
 łańcuch,chain,,m noun
+łeb,head,Nie ma łba,m noun
 łgać,to fib (repeated),,verb
 łokieć,elbow,Nie ma łokcia,m noun
 łomotać,to thump (repeated),,verb
@@ -5669,6 +5688,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 łoskot,clatter,Nie ma łoskotu,m noun
 łowić,to catch/hunt (repeated),,verb
 łuk,bow,Nie ma łuku,m noun
+łuna,glow,,f noun
 łup,loot,Nie ma łupu,m noun
 łupić,to loot/plunder (repeated),,verb
 łuska,scale,,f noun
