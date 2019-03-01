@@ -915,6 +915,7 @@ jęczmień,barley,,m noun
 jęknąć,to moan/groan I (once),,perf verb
 kadzidełko,incense stick,,n noun
 kafel,tile,,m noun
+kaganiec,muzzle,Nie ma kagańca,m noun
 kajdanki,handcuffs,,f plural noun
 kalectwo,disability,,n noun
 kaleczyć się czymś,to cut oneself with something (repeated),,verb
@@ -1433,6 +1434,7 @@ nadąsany,sulky,,adjective
 nadąć,to inflate/bloat (once),,perf verb
 nadążać za czymś,to keep up with something (repeated),,verb
 nadążyć za czymś,to keep up with something (once),,perf verb
+naglący,pressing/urgent,,adjective
 nago,naked,,adverb
 nagość,nudity,,f noun
 nagradzać,to reward (repeated),,verb
@@ -1630,6 +1632,7 @@ niesłychany,unheard of,,adjective
 nietknięty,untouched/unharmed/intact,,adjective
 nieubłagany,inexorable/unrelenting,,adjective
 nieuchronny,inevitable,,adjective
+nieuchwytny,elusive,,adjective
 nieuczciwy,dishonest,,adjective
 nieudawany,unfeigned,,adjective
 nieudolnie,clumsily,,adverb
@@ -1665,6 +1668,7 @@ niezwłoczny,immediate/prompt,,adjective
 nieśmiały,shy,,adjective
 nieśmiertelność,immortality,,f noun
 nijaki,nondescript/neuter,,adjective
+nikły,dim/faint,,adjective
 niszczyć,to devastate/destroy (repeated),,verb
 nizina,lowland,,f noun
 niższość,inferiority,,f noun
@@ -1682,6 +1686,7 @@ noworodek,newborn (baby),,m noun
 nowotwór,tumour,Nie ma nowotworu,m noun
 nowożeńcy,newly-weds,,m plural noun
 nozdrze,nostril,,n noun
+nucić,to hum (repeated),,verb
 nurkować,to dive (repeated),,verb
 nurt,current (of water),Nie ma nurtu,m noun
 nuta,note/tone,,f noun
@@ -2005,6 +2010,7 @@ ojczyzna,homeland/motherland,,f noun
 okalający,surrounding/encircling,,adjective
 okaz,specimen,Nie ma okazu,m noun
 okazać,to display (once),,perf verb
+okazały,impressive/magnificent,,adjective
 okazywać,to display (repeated),,verb
 okleina,veneer,,f noun
 okleić,to stick (over) (once),,perf verb
@@ -2101,6 +2107,7 @@ ostrzyć,to sharpen (repeated),,verb
 ostygnąć,to cool down (once),,perf verb
 osunąć się,to subside/slip/sink (once),,perf verb
 osuwać się,to subside/slip/sink (repeated),,verb
+oswojony,tame,,adjective
 oszacować,to estimate/assess (once),,perf verb
 oszałamiać,to stun/bewilder (repeated),,verb
 oszczędność,thriftiness,,f noun
@@ -2277,6 +2284,7 @@ pobrać się,to get married (once),,perf verb
 pobyt,stay,Nie ma pobytu,m noun
 pochlipywać,to snivel,,verb
 pochodnia,torch,,f noun
+pochopny,hasty/rash,,adjective
 pochwalać coś,to approve of something,,verb
 pochwalić się,to boast (once),,perf verb
 pochwała,praise/commendation,,f noun
@@ -2908,6 +2916,7 @@ przesunąć,to move/shift (once),,perf verb
 przesunę (przesunąć),I will move/shift,,conjugation
 przesuwać,to move/shift (repeated),,verb
 przesyłka,consignment/parcel,,f noun
+przeszczep,transplant,Nie ma przeszczepu,m noun
 przeszkadzać,to disturb (repeated),Nie przeszkadzaj mi w czasie pracy,verb
 przeszkoda,obstacle,,f noun
 przeszkodzić,to disturb (once),,perf verb
@@ -3201,6 +3210,7 @@ ratować,to rescue/save I (repeated),,verb
 ratunek,rescue/help,Nie ma ratunku,m noun
 ratusz,town/city hall,,m noun
 rań (ranić),Wound/hurt! (repeated),,imperative
+rdza,rust,,f noun
 reagować,to react (repeated),,verb
 recenzja,review,,f noun
 recepta,prescription,,f noun
@@ -3391,6 +3401,7 @@ rzednąć,to become thin (repeated),,verb
 rzeka,river,,f noun
 rzekomo,allegedly,,adverb
 rzemiosło,craft/trade,,n noun
+rzesza,throng,,f noun
 rześki,brisk/fresh,,adjective
 rzeźnia,abattoir,,f noun
 rzeźnik,butcher,,m noun
@@ -3547,6 +3558,7 @@ skulić,to hunch (once),,perf verb
 skupiać się,to concentrate (repeated),,verb
 skupisko,cluster,,n noun
 skupić się,to concentrate (once),,perf verb
+skurcz,contraction/cramp,Nie ma skurczu,m noun
 skurczyć się,to shrink (once),,perf verb
 skusić,to tempt/entice (once),,perf verb
 skuteczny,effective,,adjective
@@ -3904,6 +3916,7 @@ słynny,famous/well-known,,adjective
 słynąć,to be famous,,verb
 słój,jar,,m noun
 tablica,blackboard/noticeboard,,f noun
+taca,tray,,f noun
 tajemnica,(a) secret,,f noun
 tajny,secret,,adjective
 tak samo,equally/same,,phrase
@@ -4056,6 +4069,7 @@ uchwalać,to enact/pass (repeated),,verb
 uchwalić,to enact/pass (once),,perf verb
 ucichnąć,to quieten down (once),,perf verb
 uciec,to run away/escape (once),,perf verb
+uciecha,delight/joy/pleasure,Ku uciesze,f noun
 ucieczka,getaway/escape,,f noun
 uciekać,to run away/escape (repeated),,verb
 uciekinier,escapee/fugitive,,m noun
@@ -4513,6 +4527,7 @@ wlepiać,to stick/paste onto (repeated),,verb
 wlepić,to stick/paste onto (once),,perf verb
 wmieszać się,to mingle,,verb
 wniebogłosy,at the top of one's voice,,adverb
+wnikliwy,perceptive/astute,,adjective
 wniosek,conclusion,,m noun
 wnętrze,inside/interior,,n noun
 wobec,towards,"Jesteśmy krytyczni wobec osób, które piją alkoholu w pracy",preposition
@@ -4675,6 +4690,7 @@ wydanie,edition/publication/issue,,n noun
 wydarzenie,event,,n noun
 wydatek,expense,Nie ma wydatku,m noun
 wydatny,prominent/considerable,,adjective
+wydma,sand dune,,f noun
 wydobywać,to extract/mine (repeated),,verb
 wydobyć,to extract/mine (once),,perf verb
 wydostawać się,to get out (repeated),,verb
@@ -5188,6 +5204,7 @@ zaniedbywać,to neglect (repeated),,verb
 zaniepokoić,to worry (once),,perf verb
 zanim,before,,conjunction
 zanotować,to note/log (once),,perf verb
+zanucić,to hum (once),,perf verb
 zanurkować,to dive (once),,perf verb
 zanurzać,to dip/immerse (repeated),,verb
 zanurzyć,to dip/immerse (once),,perf verb
@@ -5381,6 +5398,7 @@ zaświtać,to dawn (once),,perf verb
 zażalenie,complaint III,,n noun
 zażenowanie,embarrassment,,n noun
 zażenować,to embarrass I (once),,perf verb
+zażywny,corpulent/portly,,adjective
 zażądać,to demand (once),,perf verb
 zbaczać,to deviate/diverge/digress (repeated),,verb
 zbadać,to research/investigate (once),,perf verb
@@ -5713,6 +5731,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 łupić,to loot/plunder (repeated),,verb
 łuska,scale,,f noun
 łydka,calf,,f noun
+łyżwa,(ice) skate,,f noun
 łącznie,including/altogether,,adverb
 łączyć,to connect/combine (repeated),Niektórzy łączą naukę z pracą,verb
 łżesz (łgać),You are fibbing,,conjugation
@@ -5809,6 +5828,7 @@ zżyć się z kimś,to become close to somebody (once),,perf verb
 żmudny,arduous/laborious II,,adjective
 żniwa,harvest II,,f noun
 żuć,to chew,,verb
+żwir,gravel,Nie ma żwiru,m noun
 życiorys,C.V.,Nie ma życiorysu,m noun
 życzenie,wish,Masz trzy życzenia! (You have three wishes!),n noun
 życzliwy,kind/friendly,,adjective
